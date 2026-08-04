@@ -58,6 +58,88 @@ Content mix this needs to cover: Arena, Crystal League, Corrupted Dungeons, and 
 
 Sources: [Metabattle - 1H Cursed Staff Build](https://metabattle.com/albion/1H_Cursed_Staff_Open_World_PvP_Build), [Metabattle - Cursed Staff Builds](https://metabattle.com/albion/Cursed_Staff_Builds), [Albion Forum - Cursed Staff Options](https://forum.albiononline.com/index.php/Thread/74154-Cursed-Staff-options/), [Albion Forum - Great Cursed Staff](https://forum.albiononline.com/index.php/Thread/157181-Great-Cursed-Staff/), [Albion Devtalk - Crystal League](https://albiononline.com/news/devtalk-crystal-league), [Albion Wiki - Specializations](https://wiki.albiononline.com/wiki/Specializations), [Albion Wiki - Mastery Modifier](https://wiki.albiononline.com/wiki/Mastery_Modifier).
 
+## Content-Specific Builds (Researched)
+
+### Open-World Dueling / Roaming
+
+The strongest content fit, matches the stated priority (1v1s, bait combos).
+
+| Slot | Recommended |
+|---|---|
+| Weapon | 1H Cursed Staff |
+| Head | Hunter Hood |
+| Chest | Cleric Robe |
+| Shoes | Soldier Boots |
+| Cape | Caerleon Cape, resets Vile Curse's cooldown whenever it comes off cooldown |
+| Potion | Major Energy Potion (T6: 50% max mana regen plus 28% more over 7s) |
+
+Opener: double Vile Curse (using the Opportunist passive) while kiting, Desecrate to catch anyone trying to run.
+
+Source: [Metabattle - 1H Cursed Staff Open World](https://metabattle.com/albion/1H_Cursed_Staff_Open_World_PvP_Build).
+
+### Corrupted Dungeons
+
+Same core loadout carries over from open-world. Honest note: Holy Staff is dominating the current Corrupted Dungeon meta, this is a real, working, but off-meta pick, not the top choice for this specific content.
+
+| Slot | Recommended |
+|---|---|
+| Weapon | 1H Cursed Staff |
+| Head | Hunter Hood |
+| Chest | Cleric Robe |
+| Shoes | Soldier Boots |
+| Cape | Caerleon Cape |
+
+Source: [MMORPGTips - Cursed Staff Build](https://www.mmorpgtips.com/cursed-staff-build-for-albion-online/).
+
+### Crystal Arena / Crystal League
+
+Uses the Great Cursed Staff variant (same tree, different weapon within it), plays as a secondary pressure dealer that stacks curse damage during a frontliner's CC windows. The AoE curse also suppresses enemy healing, strong against Holy Staff backlines.
+
+| Slot | Recommended | Alternative |
+|---|---|---|
+| Weapon | Great Cursed Staff | |
+| Head | Druid Cowl | Guardian Helmet |
+| Chest | Feyscale Robe | Cleric Robe |
+| Shoes | Stalker Shoes | Royal Shoes |
+| Cape | Caerleon Cape | Thetford Cape |
+| Potions | Major Energy Potion, Major Resistance Potion | |
+| Food | Beef Stew or Deadwater Eel Stew | |
+
+Source: [Albion Online Grind - Great Cursed Staff Crystal Arena build](https://albiononlinegrind.com/build/grand-baton-damn-dps-build).
+
+### Direct Comparison: Current Loadout vs. Researched Builds
+
+| Slot | Currently Equipped | Open-World/CD Wants | Crystal Arena Wants | Match? |
+|---|---|---|---|---|
+| Weapon | Adept's Curse Staff (1H) | 1H Cursed Staff | Great Cursed Staff | Matches open-world/CD. The Arena mismatch is a deliberate weapon-flex choice within the tree, not a problem. |
+| Head | Cultist Cowl | Hunter Hood | Druid Cowl / Guardian Helmet | No match |
+| Chest | Cleric Robe | Cleric Robe | Feyscale Robe / Cleric Robe (alt) | Matches both |
+| Off-hand | Cryptcandle | Not specified in research | Not specified in research | Can't compare |
+| Shoes | Demon Boots | Soldier Boots | Stalker Shoes / Royal Shoes | No match |
+| Cape | Brecilien Cape | Caerleon Cape | Caerleon Cape / Thetford Cape (alt) | No match, and this is the one with a real mechanical reason: Caerleon Cape resets Vile Curse's cooldown |
+
+**Bottom line:** chest already matches meta across the board, the weapon is correct for two of three content types, and head/shoes/cape are where the actual loadout diverges from research, cape being the clearest upgrade priority since it directly synergizes with the combo.
+
+### Current Build Rating
+
+Confirmed via research: base 800 IP corresponds to Tier 5 ("Adept's"), not Tier 4, beginners are typically advised to stay at or below T4.1. So this is very likely T5 gear, not T4, whatever labeling was used before.
+
+This is a legitimate, functional, budget-appropriate loadout for a returning player, above true beginner range, and it works across all three content types. One slot (chest) already matches meta exactly. Three slots (head, shoes, cape) are behind what focused meta builds use. This is a solid "come back and start winning fights" loadout, not yet a top-bracket Crystal Arena competitive one, and closing that gap is gear investment, not a build mistake.
+
+### Full Curse Weapon Family (all options, same tree)
+
+All of these branch from the same Cursed Staff mastery on the Destiny Board, so switching between them does not break the one-weapon-line commitment:
+
+1. **Cursed Staff (1H):** currently equipped. Highest single-target DPS in the family, the open-world dueling and bait-combo pick.
+2. **Great Cursed Staff (2H):** group pressure, multi-target curse-stacking, AoE anti-heal. The Crystal Arena/Crystal League secondary-DPS pick.
+3. **Demonic Staff (Artifact tier):** ranged DPS built for group PvP, Hellgates and Crystal Arena specifically.
+4. **Rotcaller Staff (Artifact tier):** PvE-focused, built for group dungeon content, not a PvP pick.
+5. **Lifecurse Staff (Artifact tier):** flexible general-purpose curse option, solid but not standout, B-tier for Solo Mists content.
+
+**Related but out-of-tree** (would require separate leveling, this one would actually break the one-weapon-line commitment): **Cursed Skull** (Fear category, not Cursed Staff). AoE DoT plus true damage, kite-and-root playstyle, viable in group PvP (Hellgates, Avalonian Roads, Arena) and solo (Mists, Corrupted Dungeons, open world). Worth knowing about, not worth switching to.
+
+Sources: [Albion Wiki - Cursed Staff](https://wiki.albiononline.com/wiki/Cursed_Staff), [Albion Wiki - Rotcaller Staff](https://wiki.albiononline.com/wiki/Rotcaller_Staff), [Metabattle - Demonic Staff Group PvP](https://metabattle.com/albion/Demonic_Staff_Group_PvP_Build), [Metabattle - Cursed Skull Solo PvP](https://metabattle.com/albion/Cursed_Skull_Solo_PvP_Build), [Sportskeeda - Solo Mist Weapons Tier List](https://www.sportskeeda.com/mmo/albion-online-solo-mist-weapons-tier-list).
+
 ## Skill-First Sequencing
 
 Build genuine PvP competence and credibility before actively recruiting or leaning on guild wealth/gear. The goal is to avoid the guild being seen as "bought" rather than earned. Combat skill comes before guild-building.
