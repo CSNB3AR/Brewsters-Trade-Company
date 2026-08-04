@@ -26,7 +26,9 @@ Options discussed so far: Kingpin, The Broker, Magnate, Warden of Morgana. "Ward
 
 ## Recruitment
 
-**Fame requirement:** entry-level, not zero. The point isn't skill, it's proving someone has put in enough hours to know they actually like the game. Set low enough to clear within the first couple weeks back, then treated as a floor that rises as the leader's own fame rises. Not a number fixed in stone today.
+**Fame requirement:** 300k+ crafting fame OR 500k+ PvE/normal fame to apply. As a trade guild, this is the entry bar, it's not about skill, it's proving someone has put in enough hours to know they actually like the game. Treated as a floor that rises as the leader's own fame rises, not a number fixed in stone forever.
+
+**PvP fame:** no threshold set yet. The leader doesn't have enough personal PvP fame yet to set a fair benchmark, this stays open until that changes.
 
 Recruitment is framed as a "hiring pitch." Operational specifics (exact black market routes/mechanics) stay confidential from recruits.
 

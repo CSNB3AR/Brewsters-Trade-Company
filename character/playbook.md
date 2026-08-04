@@ -4,8 +4,14 @@ Personal progression plan. This is about the player character, not guild operati
 
 ## Priority Order
 
-1. **PvP / Destiny Board combat tree first**: running a curse build (marker-stacking mechanic). Exact gear/items not finalized yet.
+1. **PvP / Destiny Board combat tree first**: running a cursed death build (marker-stacking mechanic).
 2. **Crafting tree second**: worked passively during off-hours, not the main focus.
+
+## Build Commitment
+
+Weapon base stays fixed, no switching to a different weapon line. Curse gear and playstyle variations within the cursed death build are fine, the weapon line itself is not up for debate.
+
+**Pending:** exact gear, item power, and combo/execution research are on hold until the specific build details are shared. Do not fill this in yet.
 
 ## Skill-First Sequencing
 
