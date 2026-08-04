@@ -11,7 +11,27 @@ Personal progression plan. This is about the player character, not guild operati
 
 Weapon base stays fixed, no switching to a different weapon line. Curse gear and playstyle variations within the cursed death build are fine, the weapon line itself is not up for debate.
 
-**Pending:** exact gear, item power, and combo/execution research are on hold until the specific build details are shared. Do not fill this in yet.
+**Pending:** exact personal gear, item power, and final loadout comparison are on hold until the specific build (~200k silver set, 1H Cursed Staff plus lantern off-hand) is shared. Do not fill that part in yet.
+
+## Cursed Staff Mechanics (Researched)
+
+Content mix this needs to cover: Arena, Crystal League, Corrupted Dungeons, and heavy open-world 1v1 dueling with bait-combo play, all on a budget-conscious, single-weapon-line commitment.
+
+**Core kit:**
+- **Vile Curse (Q):** stacking DoT, the "marker stacking" mechanic. Builds up to 4 stacks on a target.
+- **Desecrate (W):** AOE root/kite tool that also applies a Vile Curse stack.
+- **Death Curse (E):** the payoff ability. Places a curse that detonates after 5 seconds, damage scales with Vile Curse stack count at full stacks, over 60% of a target's HP in one hit.
+- **Everlasting Spirit:** defensive shield/immunity, used to survive the setup window before Death Curse lands.
+
+**Standard combo:** Vile Curse → Vile Curse (cape proc) → Desecrate → Vile Curse → Death Curse → keep applying Vile Curse. Advanced variant times Everlasting Spirit right before Death Curse detonates for a damage boost, then follows with an armor-piercer to strip any last-second shield.
+
+**Two variants within the same weapon line** (relevant since the weapon base stays fixed, but style can flex):
+- **1H Cursed Staff:** higher single-target DPS, the pick for open-world dueling and bait-combo play, matches the stated priority.
+- **Great Cursed Staff:** slightly lower DPS, built to hold curse stacks on 5+ targets at once, better suited to Crystal Arena and multi-target Corrupted Dungeon situations. Staying inside this tree doesn't violate the "no switching" rule.
+
+**Why sticking to one weapon actually pays off:** Albion's Mastery and Specialization system gives ongoing item power bonuses the longer a single weapon is leveled, mastery adds +0.2 IP/level and specialization adds +2 IP/level, both scaled by the item's Mastery Modifier (5% per tier from T5 up), stacking toward roughly 360 bonus IP at full weapon specialization. This is the real mechanic behind the "hidden power from maxing the same staff" instinct, not switching keeps compounding this bonus instead of resetting it.
+
+Sources: [Metabattle - 1H Cursed Staff Build](https://metabattle.com/albion/1H_Cursed_Staff_Open_World_PvP_Build), [Metabattle - Cursed Staff Builds](https://metabattle.com/albion/Cursed_Staff_Builds), [Albion Forum - Cursed Staff Options](https://forum.albiononline.com/index.php/Thread/74154-Cursed-Staff-options/), [Albion Forum - Great Cursed Staff](https://forum.albiononline.com/index.php/Thread/157181-Great-Cursed-Staff/), [Albion Devtalk - Crystal League](https://albiononline.com/news/devtalk-crystal-league), [Albion Wiki - Specializations](https://wiki.albiononline.com/wiki/Specializations), [Albion Wiki - Mastery Modifier](https://wiki.albiononline.com/wiki/Mastery_Modifier).
 
 ## Skill-First Sequencing
 
