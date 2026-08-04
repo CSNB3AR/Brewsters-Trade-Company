@@ -11,7 +11,32 @@ Personal progression plan. This is about the player character, not guild operati
 
 Weapon base stays fixed, no switching to a different weapon line. Curse gear and playstyle variations within the cursed death build are fine, the weapon line itself is not up for debate.
 
-**Pending:** exact personal gear, item power, and final loadout comparison are on hold until the specific build (~200k silver set, 1H Cursed Staff plus lantern off-hand) is shared. Do not fill that part in yet.
+### Current Loadout (as of screenshot, character IIPallasII)
+
+| Slot | Item |
+|---|---|
+| Weapon | T4 Adept's Curse Staff, Good quality |
+| Head | T4 Adept's Cultist Cowl, Good quality |
+| Chest | T4 Adept's Cleric Robe, Good quality |
+| Off-hand | T4 Adept's Cryptcandle, Outstanding quality |
+| Shoes | T4 Adept's Demon Boots, Good quality |
+| Cape | T4 Brecilien Cape |
+| Bag | T4 Adept's Bag |
+
+The Cleric Robe is the interesting deviation from a generic curse build, it's what's giving the +45% Healing Cast Bonus below. Not a standard curse-tree pairing, but it's real and it's what's actually equipped.
+
+**Stats:**
+- Average Item Power: 828 (base 800)
+- Physical Ability Bonus +54%, Magical Ability Bonus +54%
+- Max Health 1971, Armor 52, Magical Resistance 56
+- Max Energy 248, Energy Regeneration 3.5/s, Max Focus 30000
+- Move Speed 5.5 m/s, Crowd Control Resistance 49, Max Load 126kg
+- Auto-Attack Damage 63, Auto-Attack Speed 1.6/s, Damage per second 101
+- Cast Time -10%, Energy Cost Reduction +6%, Healing Cast Bonus +45%
+- Damage/Defense/CC modifiers vs. Players and vs. Mobs all near 0%, no gank-set bonuses stacked in
+- Gathering yields all 0%, this loadout isn't gear-fit for gathering
+
+This is a snapshot, not a permanent fixture, gear and IP will change as the character progresses.
 
 ## Cursed Staff Mechanics (Researched)
 
