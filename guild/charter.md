@@ -31,6 +31,8 @@ The guild is black-zone capable, this is core identity, not an occasional extra.
 
 Trade is taken as seriously as combat, this isn't a PvP guild with a side hustle. The goal is a distinct identity instead of being "just another big guild": small, skilled, black-zone capable, and genuinely making money through trade, not just logistics for logistics' sake. Recruiting in the yellow zone brings in newer/younger players and builds the pipeline, while the black zone and red zone content is what draws experienced players looking for something different from a mega-guild.
 
+A sandbox MMO like Albion demands creativity to actually be fun, and not everyone has the time or interest to build that structure themselves. That's a real reason people join guilds: someone else already did the thinking, so members can just show up and have fun instead of building a system from scratch. Setting all of this up looks like a lot of upfront work, but once it's actually running and properly structured, it's not much ongoing overhead. It's a thought-out system, not busywork.
+
 ## Guild Tone
 
 Fun, profit, and PvP together, that's the point. This isn't a roleplay-required guild, though anyone who wants to lean into that is welcome to. The baseline expectation is that people are here to enjoy it, not just grind logistics.
