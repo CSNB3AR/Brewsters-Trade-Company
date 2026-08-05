@@ -15,6 +15,8 @@ The split isn't just about who owns the capital, it's about what the guild is ac
 
 If a runner wants to go fully solo with their own goods and no guild escort, there's no guild cut to negotiate since the guild isn't providing anything on that run, they're just running on their own. The 50/50 tier prices in the value of the guild's protection, the 75/25 tier prices in the value of the guild's mount.
 
+**Big runs get an escort, no exceptions.** If a Guild-Funded run is carrying multiple items at once, several black market buys collected together into one delivery, real money on the line, it needs a PvP escort. Route Master coordinates with the War Captain to pull escort from the PvP Roster. The point is simple: a defended caravan can survive a gank attempt, an undefended one is just a free kill. If the escort team loses gear defending the run, standard gear reimbursement applies same as any other guild-organized activity. Payout for escort duty beyond gear reimbursement isn't a separate line yet, it draws from the same guild-funded PvP split noted in the rank structure, which is still open, not a number to guess at here either.
+
 ## Sales Outlet
 
 **Caerleon Black Market:** the primary channel for crafted gear and gank loot moved through route running.
