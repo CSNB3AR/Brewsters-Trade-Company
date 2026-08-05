@@ -15,6 +15,7 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 | `discord/dispatch-board-rules.md` | Posting template and rules for the `#dispatch-board` forum channel. |
 | `operations/ledger-log.md` | The live tracker for completed route runs. Append to this as jobs close. |
 | `operations/tools-and-bots.md` | Recommended market-price Discord bots to use until a custom bot is built. |
+| `operations/starter-inventory.md` | Guild bank/warehouse starter kit: consumables, crafting materials, mounts. |
 | `pvp/recruiting-criteria.md` | Crystal League roles needed and how to evaluate recruits. |
 | `content/content-plan.md` | YouTube/content plan and Creators Program eligibility path. |
 | `reference/game-notes.md` | Dated mechanics corrections and game health notes, background context only. |
@@ -25,6 +26,6 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 - Whether Sky stays a dedicated potion character or gets folded into the main is undecided (see `character/playbook.md`).
 - One island's ownership could not be transferred to the main character, reason still unresolved.
 - Custom Discord bot not started yet, see `operations/tools-and-bots.md` for what to use in the meantime.
-- Cursed death build's exact gear, item power, and combos not yet defined, pending details from the user (see `character/playbook.md`).
 - PvP fame requirement not yet set (see `guild/structure.md`).
 - Gear tier for guild-provided gear and full respect/conduct rules not yet defined (see `guild/conduct-and-gear.md`).
+- Exact quantities of Corrupted Dungeon Maps and Hellgate Rituals already purchased need confirming, currently noted as ~100 each (see `operations/starter-inventory.md`).
