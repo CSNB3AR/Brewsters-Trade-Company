@@ -30,10 +30,6 @@ Baseline rules for every member of Brewster's Trade Company, regardless of rank.
 - No intentionally sabotaging or griefing group content, that includes bailing on a group mid-content without a real reason.
 - No cheating, hacking, or third-party exploit tools. This gets someone banned from the game, not just the guild.
 
-## 5. Kill Rules
-
-**Best guess based on "kill rules, kill photos," confirm or correct this:** screenshot/killboard proof is expected when a kill or loot drop is being claimed, whether for a #trophy-wall post or to settle a loot dispute. No proof, no claim. Flag this section if that's not what you meant, it hasn't been confirmed.
-
-## 6. Enforcement
+## 5. Enforcement
 
 Two-strike baseline unless it's a scam, hack, or serious harassment, those are immediate. Otherwise: warning first, kick or demotion second.
