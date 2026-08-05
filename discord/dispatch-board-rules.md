@@ -69,6 +69,10 @@ The guild's crafting engine. The guild supplies materials, a crafter supplies th
 - Buying cheap materials specifically to convert into finished goods and flip is considered the "true trade merchant" move.
 - If materials are already gathered in-house, there's no cost to recoup, so the split logic changes, there's no material cost to net out first.
 
+**Workshop Crew:** a smaller, hired tier on top of general crafting. To qualify, a crafter needs to be able to craft at least 2-3 different item types at T5/T6 quality. Target crew size is 5-6 people.
+
+Crew members get a stipend, roughly 25,000-30,000 silver per pay period (1.5-2 weeks), for filling Order Board requests during that window. This isn't a guaranteed salary: guild orders get priority, and if nothing came through the board that period, there's no payout. It's tied to actually filling real, open workshop orders, within reason, not speculative crafting on the guild's dime.
+
 **Order Board Posting Template** (for `#order-board`, members requesting a crafted item):
 
 ```

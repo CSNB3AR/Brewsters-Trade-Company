@@ -37,7 +37,13 @@ Confirmed member, past trial, meets the fame requirement. Casual rank, no depart
 
 Specialized and active in a department. Proven contributor, this is where most active members sit.
 
-**Perks:** guild-funded route running eligibility (once the standard 5-self-funded-run requirement is met), standard Auction Night access.
+**Perks (general, all Operatives):** standard Auction Night access.
+
+**Perks (Route Runner):** guild-funded route running eligibility, once the standard 5-self-funded-run requirement is met.
+
+**Perks (Crafter):** eligible for the Workshop Crew stipend once qualified (2-3 item types at T5/T6, see the Workshop rules for the full pay structure).
+
+**Perks (PvP Roster):** grouped-up PvP and faction warfare pushes carry a profit split when the guild fronts consumables or mounts for the push, mirroring the Route Running split logic. Exact percentage not set yet, this is flagged open, not guessed at.
 
 **Promotion to Broker:** sustained activity over time, plus visible contribution beyond just running numbers. Hosting group content (Hellgates, Crystal League, faction pushes) and successful recruitment (a recruit who joined through that member's Discord invite link and got accepted) both count. This is a judgment call officers make at this stage, not a strict formula.
 

@@ -31,3 +31,4 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 - Gear tier for guild-provided gear (upfront issued gear, not event reimbursement) not yet defined (see `guild/conduct-and-gear.md`).
 - Exact quantities of Corrupted Dungeon Maps and Hellgate Rituals already purchased need confirming, currently noted as ~100 each (see `operations/starter-inventory.md`).
 - Fame cap number for the monthly-scaling policy hasn't been set yet (see `guild/structure.md`).
+- Exact profit split percentage for guild-funded PvP/faction warfare pushes hasn't been set yet (see `guild/structure.md`).
