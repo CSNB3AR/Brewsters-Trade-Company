@@ -14,7 +14,6 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 | `discord/dispatch-board-rules.md` | Combined dispatch/economy rules: Route Running splits and tags, Workshop split and order template, Guild Auction House and Auction Night, anti-flip rule. |
 | `discord/welcome-rules.md` | Server conduct rules for `#welcome-and-charter`. |
 | `discord/guard-rules.md` | PvP guidelines, Crystal League roster access, faction warfare and schedule status. |
-| `operations/ledger-log.md` | Manual backup tracker for completed route runs. Append to this as jobs close. |
 | `operations/tools-and-bots.md` | Recommended market-price Discord bots to use until a custom bot is built. |
 | `operations/starter-inventory.md` | Guild bank/warehouse starter kit: consumables, crafting materials, mounts. |
 | `pvp/recruiting-criteria.md` | Crystal League roles needed and how to evaluate recruits. |

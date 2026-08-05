@@ -45,7 +45,7 @@ Three tags, in order:
 3. Funding type sets the split and is locked in at posting (see Splits above). Guild-Funded jobs need Route Master confirmation of capital before the thread is tagged Open.
 4. Only the Route Master assigns tags. Runners don't self-tag.
 5. First reply of "claiming" locks the job. No double-claiming, no reserving jobs you're not ready to run.
-6. Runner and Route Master both confirm the payout amount before a thread is tagged Delivered. The thread itself, plus the ledger entry, is the record, this is the primary tracking mechanism until a bot exists to automate it (see `operations/ledger-log.md`).
+6. Runner and Route Master both confirm the payout amount before a thread is tagged Delivered. The thread itself is the record, no separate ledger to maintain, this is the tracking mechanism until a bot exists to automate it.
 7. If a run goes bad, tag it Lost Goods immediately, don't leave it hanging as Open. Self-Funded losses are the runner's own risk. Guild-Funded losses come out of company capital and get logged as a loss.
 8. Stale claims (48 hours, no update) get released by the Route Master.
 9. No side deals outside the board. Everything gets logged.

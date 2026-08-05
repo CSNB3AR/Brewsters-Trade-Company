@@ -7,8 +7,7 @@ Public-facing category, this is what a prospective recruit sees before joining.
 - `#company-notices`: members-only, hidden from non-members. Announcements.
 
 ## DISPATCH (Route Running)
-- `#dispatch-board`: Forum channel, see `dispatch-board-rules.md`. Route economics, posting template, and tags all live there now.
-- `#the-ledger-log`: manual backup record of route payouts (see `operations/ledger-log.md`), the dispatch board thread itself is the primary tracking record until a bot exists.
+- `#dispatch-board`: Forum channel, see `dispatch-board-rules.md`. Route economics, posting template, tags, and payout tracking all live there, no separate ledger channel.
 
 ## THE WORKSHOP
 - `#order-board`: material needs, crafting requests, see `dispatch-board-rules.md`.

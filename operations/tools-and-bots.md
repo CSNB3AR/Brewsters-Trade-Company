@@ -18,4 +18,4 @@ Both bots depend on AODP's data feed, which has broken temporarily in the past w
 
 ## Custom Bot
 
-A custom bot is planned separately to bring things "up to snuff" (dispatch board automation, ledger logging, etc.). Not started yet, this file just covers what to use in the meantime.
+A custom bot is planned separately to bring things "up to snuff" (dispatch board automation, payout tracking, etc.). Not started yet, this file just covers what to use in the meantime.

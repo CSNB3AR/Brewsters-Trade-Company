@@ -9,7 +9,7 @@
 | **Workshop Warden** | Craft team/workshop, material allocation, profit splits. |
 | **War Captain** | PvP: Crystal League roster, Arena, Mists/Hellgates/Corrupted Dungeon scheduling, gank/roam squads. |
 | **Master of Games** | Arena Nights and betting pools, hosts/publicizes PvP matches. |
-| **Quartermaster** | Guild bank/ledger, processes payouts, gives weekly financial summaries. |
+| **Quartermaster** | Guild bank, processes payouts, gives weekly financial summaries. |
 
 ### Guild Leader Title
 
