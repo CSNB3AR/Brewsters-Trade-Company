@@ -17,13 +17,41 @@ Decided: **Kingpin**.
 
 ## Rank Structure
 
-Three stages of general membership between joining and officer track, themed to fit the trade-syndicate identity (Kingpin, Broker, and the rest already lean that way):
+Three stages of general membership between joining and officer track, themed to fit the trade-syndicate identity (Kingpin, Broker, and the rest already lean that way). Every rank has a way up and something real attached to it.
 
-1. **Recruit**: trial rank, probationary, before fame/activity is proven.
-2. **Associate**: confirmed member, past trial, meets the fame requirement. Casual rank, no department commitment required yet.
-3. **Operative**: specialized and active in a department: Route Runner (under Route Master), Crafter (under Workshop Warden), or PvP Roster (under War Captain). Proven contributor, this is where most active members sit.
-4. **Broker**: senior, trusted member. Last stop before officer track, mentors newer members, first in line when an officer seat opens.
-5. **Officer** (the 5 roles above)
+### 1. Recruit
+
+Trial rank, probationary, before fame/activity is proven.
+
+**Promotion to Associate:** finish the trial period and meet the 250k fame floor.
+
+### 2. Associate
+
+Confirmed member, past trial, meets the fame requirement. Casual rank, no department commitment required yet.
+
+**Perks:** access to guild-supplied crafting materials for personal use through the Workshop, access to the mount stable for route running.
+
+**Promotion to Operative:** pick a department, Route Runner (under Route Master), Crafter (under Workshop Warden), or PvP Roster (under War Captain), and show real activity in it. For Route Runners that's roughly 5-6 completed runs. For Crafters and PvP Roster, it's equivalent activity: fulfilled crafting orders, or regular Crystal League/Hellgate/Fight Club participation. Baseline Discord activity is expected across the board.
+
+### 3. Operative
+
+Specialized and active in a department. Proven contributor, this is where most active members sit.
+
+**Perks:** guild-funded route running eligibility (once the standard 5-self-funded-run requirement is met), standard Auction Night access.
+
+**Promotion to Broker:** sustained activity over time, plus visible contribution beyond just running numbers. Hosting group content (Hellgates, Crystal League, faction pushes) and successful recruitment (a recruit who joined through that member's Discord invite link and got accepted) both count. This is a judgment call officers make at this stage, not a strict formula.
+
+### 4. Broker
+
+Senior, trusted member. Last stop before officer track, mentors newer members, first in line when an officer seat opens.
+
+**Perks:** first pick on Auction Night items before they open to the rest of the members, priority credit for hosting group content, and a one-time starting perk on promotion, a basic mount from the stable or a small silver stipend, kept modest so it doesn't strain the guild bank.
+
+**Promotion to Officer:** application-based, not automatic. Activity and contribution shown at Broker (hosting, recruiting, reliability) is what gets someone considered when a seat opens.
+
+### 5. Officer
+
+The 5 roles in the Officer Corps above. Full guild-funded access and decision-making authority.
 
 Department specialization (Route Runner, Crafter, PvP Roster) is a tag layered on at the Operative stage and carried into Broker, it's not a separate rank track, it's what someone specialized into.
 
