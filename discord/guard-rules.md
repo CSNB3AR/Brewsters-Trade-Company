@@ -22,10 +22,11 @@ We flag for Caerleon. Caerleon fame requirement is the same 250k floor as genera
 
 **How Caerleon plays, and it's different from every other faction:** there's no army to join, no zerg. Other Caerleon-flagged players can attack each other too, it's every crew for themselves. Captured Outposts become bandit camps that pay whoever's holding them directly, not the whole faction. The actual play is small squads raiding Outposts or third-partying other factions' fights mid-battle, not massing up for a push.
 
-Because of that small-squad structure, faction pushes need to be timed and organized in advance, not something people just wander into solo. A dedicated faction push day is wanted, day not locked into the schedule yet.
+Because of that small-squad structure, faction pushes need to be timed and organized in advance, not something people just wander into solo.
 
 ## PvP Schedule
 
+- **Monday-Friday:** Faction Warfare, group-up attempts during 23:00-12:00 UTC (5 PM-6 AM Central). Albion runs entirely on UTC server time, that window is what to watch, not local time.
 - **Friday:** Fight Club, the recurring PvP night.
 - **Saturday evening:** Crystal League. If a Crystal League match isn't popping, Hellgates is the fallback.
 - **Sunday (if online):** officer planning meeting, sets the coming week's coverage.

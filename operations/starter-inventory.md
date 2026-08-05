@@ -13,7 +13,22 @@ Source: [KeenGamer - Corrupted Dungeons](https://www.keengamer.com/articles/guid
 
 ## Crafting Materials Warehouse
 
-Basic refined materials stocked at a starter tier so Workshop crafters can produce immediately on joining: Planks, Metal Bars, Cloth, Leather, Stone Blocks.
+Real shopping list, not a vague category. Capped at Tier 5 and below, nothing higher gets stocked. Aim for at least 5 stacks (roughly 50 units) per line, budget ceiling around 1M silver per line, adjust the unit count down if market price makes that unrealistic for a given item.
+
+| Item | Quantity Target | Notes |
+|---|---|---|
+| T4 Planks | 5 stacks (~50) | |
+| T5 Planks | 5 stacks (~50) | |
+| T4 Metal Bar | 5 stacks (~50) | |
+| T5 Metal Bar | 5 stacks (~50) | |
+| T4 Cloth | 5 stacks (~50) | |
+| T5 Cloth | 5 stacks (~50) | |
+| T4 Leather | 5 stacks (~50) | |
+| T5 Leather | 5 stacks (~50) | |
+
+**Not being stocked:**
+- **Potions:** not bought in bulk. The leader is personally leveling potion-making, this becomes self-supplied over time, not a guild-bank line item.
+- **Building materials (stone blocks, cinder block, etc.):** not stocked beyond what's needed for personal island upgrades. The guild isn't helping members build their own islands.
 
 Split logic for using these is already defined in `discord/dispatch-board-rules.md`: guild supplies materials, crafter supplies skill/spec, profit splits 50/50 on sale.
 

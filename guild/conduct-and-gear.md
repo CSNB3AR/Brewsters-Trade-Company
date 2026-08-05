@@ -12,4 +12,4 @@ The guild provides mounts for Guild-Funded route runs. The percentage cut on tho
 
 ## Respect and Conduct
 
-**Open item:** general respect/conduct expectations for members are still being defined. This section is a placeholder for that ruleset once it exists.
+Resolved, server conduct rules and membership rules are both pinned in #welcome-and-charter.

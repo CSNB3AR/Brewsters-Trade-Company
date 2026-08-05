@@ -21,7 +21,13 @@ If a runner wants to go fully solo with their own goods and no guild escort, the
 
 ## Cadence
 
-Target is 2 routes a day. Floor is 6 routes a week, roughly Monday/Wednesday/Friday covered at minimum. Doesn't have to be an officer running them, anyone can fill a route. Weekly coverage gets sorted out at the Sunday officer planning meeting.
+This is a guild-wide objective, not an individual quota. Nobody's on the hook to personally hit a number, the guild as a whole is aiming for 6 routes a week minimum.
+
+Two valid ways to get there:
+- 1 route a day, Monday through Saturday, resting Sunday.
+- 2 routes a day, concentrated on Monday, Wednesday, and Friday.
+
+2 routes a day across the board is the stretch goal if the guild can sustain it. Doesn't have to be an officer running them, anyone can fill a route. Weekly coverage gets sorted out at the Sunday officer planning meeting.
 
 ## Required Posting Template
 

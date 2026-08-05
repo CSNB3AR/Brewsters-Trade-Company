@@ -37,9 +37,9 @@ Recruitment is framed as a "hiring pitch." Operational specifics (exact black ma
 
 **Prime-time window:** core hours are roughly 5 PM to 6 AM Central Time (US), evening, night, and early morning. This is the locked scheduling baseline, non-negotiable, comes before any recruitment push.
 
-## Activity Policy
+## Membership Rules
 
-Members need to be in the Discord server while actively playing. Two weeks without activity triggers officer outreach on Discord. No response after that leads to removal. This keeps the roster reflecting who's actually still around.
+Full membership rules (activity/absence policy, guild tax, gear reimbursement, guild-funded eligibility) are pinned in #welcome-and-charter.
 
 ## Weekly Rhythm
 
