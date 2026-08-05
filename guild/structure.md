@@ -17,12 +17,15 @@ Decided: **Kingpin**.
 
 ## Rank Structure
 
-1. Officers (the 5 roles above)
-2. Route Runners (under Route Master)
-3. Crafters (under Workshop Warden)
-4. PvP Roster (under War Captain)
-5. General Members (meet the fame requirement, not yet specialized into a department)
-6. Recruits / Trial (probationary rank before fame/activity is proven)
+Three stages of general membership between joining and officer track, themed to fit the trade-syndicate identity (Kingpin, Broker, and the rest already lean that way):
+
+1. **Recruit**: trial rank, probationary, before fame/activity is proven.
+2. **Associate**: confirmed member, past trial, meets the fame requirement. Casual rank, no department commitment required yet.
+3. **Operative**: specialized and active in a department: Route Runner (under Route Master), Crafter (under Workshop Warden), or PvP Roster (under War Captain). Proven contributor, this is where most active members sit.
+4. **Broker**: senior, trusted member. Last stop before officer track, mentors newer members, first in line when an officer seat opens.
+5. **Officer** (the 5 roles above)
+
+Department specialization (Route Runner, Crafter, PvP Roster) is a tag layered on at the Operative stage and carried into Broker, it's not a separate rank track, it's what someone specialized into.
 
 ## Recruitment
 
@@ -38,4 +41,4 @@ Recruitment is framed as a "hiring pitch." Operational specifics (exact black ma
 
 1. Short form/post in `#join-the-company`: current fame, content focus preference (route running, crafting, or PvP), available play window.
 2. Brief chat with the leader or an officer to confirm fit, without revealing Route Running mechanics.
-3. Trial period at Recruit rank before being moved into a department.
+3. Trial period at Recruit rank, then promoted to Associate. From there, picking a department and proving activity moves someone up to Operative.
