@@ -7,13 +7,15 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 | File | Purpose |
 |---|---|
 | `character/playbook.md` | Personal progression plan: skill priority, build, mount, and asset status. |
-| `guild/charter.md` | Guild identity, philosophy, PvP identity, and the recruitment pitch copy. |
-| `guild/structure.md` | Officer roles, rank ladder, and the recruitment process. |
+| `guild/charter.md` | Public-facing guild identity, mission, PvP identity, community rules, and the recruitment pitch copy. |
+| `guild/structure.md` | Officer roles, rank ladder, fame requirement, and the recruitment process. |
 | `guild/conduct-and-gear.md` | Gear provision policy, mount rental terms, and respect/conduct rules. |
-| `economy/splits-and-workshop.md` | Route Running and Workshop profit splits, sales outlets, anti-flip rule, Auction Night. |
-| `discord/server-layout.md` | Full Discord channel and voice layout. |
-| `discord/dispatch-board-rules.md` | Posting template and rules for the `#dispatch-board` forum channel. |
-| `operations/ledger-log.md` | The live tracker for completed route runs. Append to this as jobs close. |
+| `discord/server-layout.md` | Full Discord channel and voice layout, with public vs. members-only visibility noted. |
+| `discord/dispatch-board-rules.md` | Route Running splits, posting template, tags, and rules for `#dispatch-board`. |
+| `discord/workshop-rules.md` | Workshop crafting split and the `#order-board` request template. |
+| `discord/auction-house-rules.md` | Guild Auction House rules, Auction Night format, item submission template, anti-flip rule. |
+| `discord/guard-rules.md` | PvP guidelines, Crystal League roster access, faction warfare and schedule status. |
+| `operations/ledger-log.md` | Manual backup tracker for completed route runs. Append to this as jobs close. |
 | `operations/tools-and-bots.md` | Recommended market-price Discord bots to use until a custom bot is built. |
 | `operations/starter-inventory.md` | Guild bank/warehouse starter kit: consumables, crafting materials, mounts. |
 | `pvp/recruiting-criteria.md` | Crystal League roles needed and how to evaluate recruits. |
@@ -22,10 +24,10 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 
 ## Open Items
 
-- Guild Leader title not yet decided (see `guild/structure.md`).
 - Whether Sky stays a dedicated potion character or gets folded into the main is undecided (see `character/playbook.md`).
 - One island's ownership could not be transferred to the main character, reason still unresolved.
-- Custom Discord bot not started yet, see `operations/tools-and-bots.md` for what to use in the meantime.
-- PvP fame requirement not yet set (see `guild/structure.md`).
+- Custom Discord bot not started yet, see `operations/tools-and-bots.md` for what to use in the meantime. A membership application bot is also wanted, not yet started.
+- PvP fame requirement not yet set (see `guild/structure.md`), pending the leader's own PvP fame grind.
 - Gear tier for guild-provided gear and full respect/conduct rules not yet defined (see `guild/conduct-and-gear.md`).
 - Exact quantities of Corrupted Dungeon Maps and Hellgate Rituals already purchased need confirming, currently noted as ~100 each (see `operations/starter-inventory.md`).
+- Faction warfare specifics and a full PvP schedule aren't written yet (see `discord/guard-rules.md`).

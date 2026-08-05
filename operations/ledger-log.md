@@ -2,9 +2,9 @@
 
 This is the live tracker for completed Route Running jobs. It mirrors `#the-ledger-log` in Discord.
 
-Per dispatch board rule 7: no thread closes without a matching entry here. Runner and Route Master both confirm the payout amount before a job is marked Completed. Per rule 10: no side deals outside the board, everything gets logged here.
+**Note:** the dispatch board thread itself (see `discord/dispatch-board-rules.md`) is the primary tracking record, a thread tagged Delivered with runner and Route Master both confirming the payout is what actually closes out a job. This ledger is a manual backup/summary until a bot exists to automate tracking, don't rely on it alone.
 
-Split reference (see `economy/splits-and-workshop.md` for full detail): Self-Funded = 50/50. Guild-Funded = 25% runner / 75% company.
+Split reference (see `discord/dispatch-board-rules.md` for full detail): Self-Funded with Escort = 50/50. Guild-Funded = 25% runner / 75% company.
 
 Append a new row for every completed job. Do not delete old rows, this is a running history.
 
@@ -14,4 +14,4 @@ Append a new row for every completed job. Do not delete old rows, this is a runn
 
 ## Losses
 
-Guild-Funded losses come out of company capital and must also be logged, per rule 8. Track them here too, using the same table with the Total Profit column as a negative number and a note explaining what happened.
+Guild-Funded losses come out of company capital and must also be logged (tagged Lost Goods on the dispatch board). Track them here too, using the same table with the Total Profit column as a negative number and a note explaining what happened.

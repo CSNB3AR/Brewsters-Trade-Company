@@ -8,7 +8,7 @@ Most guilds provide gear to members at a certain fame/rank tier. Brewster's Trad
 
 ## Mount Rental
 
-The guild provides mounts for Guild-Funded route runs. The percentage cut on those runs is defined in `economy/splits-and-workshop.md` (75% guild / 25% runner when the guild supplies the mount).
+The guild provides mounts for Guild-Funded route runs. The percentage cut on those runs is defined in `discord/dispatch-board-rules.md` (75% guild / 25% runner when the guild supplies the mount).
 
 ## Respect and Conduct
 

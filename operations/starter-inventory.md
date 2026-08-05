@@ -15,7 +15,7 @@ Source: [KeenGamer - Corrupted Dungeons](https://www.keengamer.com/articles/guid
 
 Basic refined materials stocked at a starter tier so Workshop crafters can produce immediately on joining: Planks, Metal Bars, Cloth, Leather, Stone Blocks.
 
-Split logic for using these is already defined in `economy/splits-and-workshop.md`: guild supplies materials, crafter supplies skill/spec, profit splits on sale.
+Split logic for using these is already defined in `discord/workshop-rules.md`: guild supplies materials, crafter supplies skill/spec, profit splits 50/50 on sale.
 
 ## Mount Stable
 
@@ -27,7 +27,7 @@ Three budget picks, not the expensive ZvZ/battle mounts covered separately in `c
 | Giant Stag | Balances speed with real carry capacity. The route-running pick. |
 | Armored Horse | Trades some speed for a defensive shield. Useful for escorted/protected runs. |
 
-Split logic for guild-provided mounts is already defined in `economy/splits-and-workshop.md`: guild supplies the mount, 75% guild / 25% runner.
+Split logic for guild-provided mounts is already defined in `discord/dispatch-board-rules.md`: guild supplies the mount, 75% guild / 25% runner.
 
 Source: [Albion Free Market - Best Fast Mounts](https://albionfreemarket.com/articles/view/the-best-fast-albion-online-mounts), [Albion Free Market - Best Mounts for PvP/PvE/Gathering](https://albionfreemarket.com/articles/view/albion-online-best-mounts-for-pvp-pve-and-gathering-2025).
 
