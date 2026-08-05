@@ -38,16 +38,10 @@ Fun, profit, and PvP together, that's the point. This isn't a roleplay-required 
 
 ## Recurring Events
 
-- **Auction Night:** the leader/officers seed rare items at a cheap starting price and run a live call-out auction ("going once, going twice..."), members-first. Full mechanics live in `discord/auction-house-rules.md`.
+- **Auction Night:** the leader/officers seed rare items at a cheap starting price and run a live call-out auction ("going once, going twice..."), members-first. Full mechanics live in `discord/dispatch-board-rules.md`.
 - **Fight Club:** a recurring PvP night. Officers supply Hellgate and Corrupted Dungeon maps as a resource so there's always content ready to run.
 
-## Community Rules
-
-Baseline conduct expectations for the server, this applies to every member regardless of rank:
-
-- No hazing, no bullying. New and Recruit-rank members get treated the same as everyone else.
-- No harassment of any kind, in voice, text, or in-game. This is a small guild on purpose, that only works if it's a safe one.
-- Keep dispute resolution off public channels, take it to an officer if something's actually a problem.
+Server conduct rules live in `discord/welcome-rules.md`, posted alongside this charter in `#welcome-and-charter`.
 
 ## Recruitment Channel Pitch (Draft)
 

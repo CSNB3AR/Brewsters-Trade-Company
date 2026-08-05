@@ -15,7 +15,7 @@ Source: [KeenGamer - Corrupted Dungeons](https://www.keengamer.com/articles/guid
 
 Basic refined materials stocked at a starter tier so Workshop crafters can produce immediately on joining: Planks, Metal Bars, Cloth, Leather, Stone Blocks.
 
-Split logic for using these is already defined in `discord/workshop-rules.md`: guild supplies materials, crafter supplies skill/spec, profit splits 50/50 on sale.
+Split logic for using these is already defined in `discord/dispatch-board-rules.md`: guild supplies materials, crafter supplies skill/spec, profit splits 50/50 on sale.
 
 ## Mount Stable
 

@@ -2,7 +2,7 @@
 
 ## THE CHARTER
 Public-facing category, this is what a prospective recruit sees before joining.
-- `#welcome-and-charter`: public. Guild charter content (`guild/charter.md`) and officer/rank structure (`guild/structure.md`) post here.
+- `#welcome-and-charter`: public. Guild charter content (`guild/charter.md`), officer/rank structure (`guild/structure.md`), and server rules (`welcome-rules.md`) post here.
 - `#join-the-company`: public. Hiring pitch, fame requirement stated here.
 - `#company-notices`: members-only, hidden from non-members. Announcements.
 
@@ -11,7 +11,7 @@ Public-facing category, this is what a prospective recruit sees before joining.
 - `#the-ledger-log`: manual backup record of route payouts (see `operations/ledger-log.md`), the dispatch board thread itself is the primary tracking record until a bot exists.
 
 ## THE WORKSHOP
-- `#order-board`: material needs, crafting requests, see `workshop-rules.md`.
+- `#order-board`: material needs, crafting requests, see `dispatch-board-rules.md`.
 
 ## THE GUARD (PvP)
 - `#muster`: Crystal League / Hellgate / Corrupted Dungeon sign-ups, see `guard-rules.md`.

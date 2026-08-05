@@ -1,4 +1,4 @@
-# Dispatch Board: Forum Channel Rules
+# Dispatch Board & Economy Rules
 
 ## What Route Running Is
 
@@ -49,3 +49,49 @@ Three tags, in order:
 7. If a run goes bad, tag it Lost Goods immediately, don't leave it hanging as Open. Self-Funded losses are the runner's own risk. Guild-Funded losses come out of company capital and get logged as a loss.
 8. Stale claims (48 hours, no update) get released by the Route Master.
 9. No side deals outside the board. Everything gets logged.
+
+## The Workshop (Crafting)
+
+The guild's crafting engine. The guild supplies materials, a crafter supplies the skill/spec to make the item, and profit splits on sale.
+
+**Split:**
+- Guild supplies materials, crafter supplies skill/spec to craft the item, profit is split 50/50 on sale.
+- Buying cheap materials specifically to convert into finished goods and flip is considered the "true trade merchant" move.
+- If materials are already gathered in-house, there's no cost to recoup, so the split logic changes, there's no material cost to net out first.
+
+**Order Board Posting Template** (for `#order-board`, members requesting a crafted item):
+
+```
+ITEM NEEDED:
+QUANTITY:
+MATERIALS PROVIDED: Yes or No
+TIER/ENCHANT:
+DEADLINE:
+NOTES:
+```
+
+**Workshop rules:**
+1. One request per thread.
+2. Crafters claim a request by replying "claiming." First claim locks it, no double-claiming.
+3. If materials aren't provided by the requester, the guild-supplies-materials split applies (50/50). If the requester provides their own materials, negotiate the labor cost directly, that's outside the guild split.
+4. Workshop Warden confirms material allocation before a request is tagged Open.
+5. Completed orders get confirmed by both the requester and the crafter before the thread closes.
+
+## Guild Auction House
+
+Rare gank/PvP loot only. Never guild-bought stock. Priced below market. Runs weekly, members-only.
+
+**Auction Night:** the live-bidding format. The leader or officers seed rare items at a cheap starting price, then run a live call-out auction in voice or text: "going once, going twice, sold." Members-first.
+
+**Item Submission Template** (for a member putting an item up for the guild auction):
+
+```
+ITEM:
+QUALITY/ENCHANT:
+STARTING BID:
+REASON (loot drop, contribution, etc.):
+```
+
+Submit this in advance of Auction Night so officers can queue it.
+
+**Anti-Flip Rule:** items bought through the guild auction can't be resold for personal profit on the open market. Enforcement is two-strike: warning first, market ban second.
