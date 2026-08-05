@@ -13,7 +13,8 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 | `discord/server-layout.md` | Full Discord channel and voice layout, with public vs. members-only visibility noted. |
 | `discord/dispatch-board-rules.md` | Combined dispatch/economy rules: Route Running splits and tags, Workshop split and order template, Guild Auction House and Auction Night, anti-flip rule. |
 | `discord/welcome-rules.md` | Server conduct rules for `#welcome-and-charter`. |
-| `discord/guard-rules.md` | PvP guidelines, Crystal League roster access, faction warfare and schedule status. |
+| `discord/guard-rules.md` | PvP guidelines, Crystal League roster access, faction warfare, and the weekly PvP schedule. |
+| `discord/guides/` | Beginner guides for `#guides`: Crystal League, 2v2 Hellgates, Open World PvP, Arena, Roads of Avalon. |
 | `operations/tools-and-bots.md` | Recommended market-price Discord bots to use until a custom bot is built. |
 | `operations/starter-inventory.md` | Guild bank/warehouse starter kit: consumables, crafting materials, mounts. |
 | `pvp/recruiting-criteria.md` | Crystal League roles needed and how to evaluate recruits. |
@@ -25,7 +26,7 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 - Whether Sky stays a dedicated potion character or gets folded into the main is undecided (see `character/playbook.md`).
 - One island's ownership could not be transferred to the main character, reason still unresolved.
 - Custom Discord bot not started yet, see `operations/tools-and-bots.md` for what to use in the meantime. A membership application bot is also wanted, not yet started.
-- PvP fame requirement not yet set (see `guild/structure.md`), pending the leader's own PvP fame grind.
 - Gear tier for guild-provided gear and full respect/conduct rules not yet defined (see `guild/conduct-and-gear.md`).
 - Exact quantities of Corrupted Dungeon Maps and Hellgate Rituals already purchased need confirming, currently noted as ~100 each (see `operations/starter-inventory.md`).
-- Faction warfare specifics and a full PvP schedule aren't written yet (see `discord/guard-rules.md`).
+- Faction warfare specifics beyond the basic loop aren't fully defined yet (see `discord/guard-rules.md`).
+- Fame cap number for the monthly-scaling policy hasn't been set yet (see `guild/structure.md`).

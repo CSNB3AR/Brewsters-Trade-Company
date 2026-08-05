@@ -29,13 +29,21 @@ Department specialization (Route Runner, Crafter, PvP Roster) is a tag layered o
 
 ## Recruitment
 
-**Fame requirement:** 100k fame to apply. This is the entry bar, it's not about skill, it's proving someone has put in enough hours to know they actually like the game. Treated as a starting floor that scales up as the guild grows, not a number fixed in stone forever.
+**Fame requirement:** 250k fame to apply, general/normal fame and PvP fame both. This is the entry bar, it's not about skill, it's proving someone has put in enough hours to know they actually like the game.
 
-**PvP fame:** no separate threshold set yet. The leader is grinding personal PvP fame first before setting a fair benchmark, this stays open until that changes.
+**Fame floor scales monthly:** the requirement rises each month based on the lowest active member's fame, with an eventual cap. Not a number fixed in stone forever.
 
 Recruitment is framed as a "hiring pitch." Operational specifics (exact black market routes/mechanics) stay confidential from recruits.
 
-**Scheduling policy:** lock one weekly play/prime-time window before recruiting anyone into it. Non-negotiable, comes before any recruitment push.
+**Prime-time window:** core hours are roughly 5 PM to 6 AM Central Time (US), evening, night, and early morning. This is the locked scheduling baseline, non-negotiable, comes before any recruitment push.
+
+## Activity Policy
+
+Members need to be in the Discord server while actively playing. Two weeks without activity triggers officer outreach on Discord. No response after that leads to removal. This keeps the roster reflecting who's actually still around.
+
+## Weekly Rhythm
+
+Sundays, when online, officers meet to plan the coming week's route running coverage. Route cadence targets are pinned in #dispatch-board, the PvP weekly schedule is pinned in #muster and #the-pit.
 
 ### Application Process
 

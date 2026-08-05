@@ -19,6 +19,10 @@ If a runner wants to go fully solo with their own goods and no guild escort, the
 
 **Caerleon Black Market:** the primary channel for crafted gear and gank loot moved through route running.
 
+## Cadence
+
+Target is 2 routes a day. Floor is 6 routes a week, roughly Monday/Wednesday/Friday covered at minimum. Doesn't have to be an officer running them, anyone can fill a route. Weekly coverage gets sorted out at the Sunday officer planning meeting.
+
 ## Required Posting Template
 
 ```

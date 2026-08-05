@@ -4,6 +4,7 @@
 Public-facing category, this is what a prospective recruit sees before joining.
 - `#welcome-and-charter`: public. Guild charter content (`guild/charter.md`), officer/rank structure (`guild/structure.md`), and server rules (`welcome-rules.md`) post here.
 - `#join-the-company`: public. Hiring pitch, fame requirement stated here.
+- `#guides`: public. Beginner guides (Crystal League, 2v2 Hellgates, Open World PvP, Arena, Roads of Avalon), see the `guides/` folder, one pinned post per topic.
 - `#company-notices`: members-only, hidden from non-members. Announcements.
 
 ## DISPATCH (Route Running)

@@ -14,4 +14,8 @@ Details still being worked out, not fully defined yet. Faction warfare happens i
 
 ## PvP Schedule
 
-No fixed schedule exists yet, this is coming. When it's ready it'll cover Crystal League, faction warfare windows, and Fight Club. No ZvZ content, that stays outside the guild's identity.
+- **Friday:** Fight Club, the recurring PvP night.
+- **Saturday evening:** Crystal League. If a Crystal League match isn't popping, Hellgates is the fallback.
+- **Sunday (if online):** officer planning meeting, sets the coming week's coverage.
+
+No ZvZ content, that stays outside the guild's identity.

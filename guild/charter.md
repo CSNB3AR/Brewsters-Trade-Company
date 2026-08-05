@@ -33,7 +33,7 @@ Fun, profit, and PvP together, that's the point. This isn't a roleplay-required 
 
 - Regular Mists content once the roster supports it.
 - A guild hideout in the Roads of Avalon.
-- Dominate the Caerleon market by acquiring individual city building plots (via the game's 4-week blind auction system) to control local resources and production.
+- Dominate the Caerleon market by acquiring individual city building plots (via the game's 4-week blind auction system). That income funds Roads of Avalon expeditions, Mists content, and keeping the hideout running.
 - A possible alliance with a larger guild, for support only, not to participate in their ZvZ content.
 
 ## Recurring Events
