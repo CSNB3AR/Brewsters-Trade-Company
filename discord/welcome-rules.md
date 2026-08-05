@@ -1,6 +1,6 @@
 # Welcome & Charter: Server Rules
 
-Baseline conduct expectations for the server, this applies to every member regardless of rank. Posts in `#welcome-and-charter` alongside `guild/charter.md`.
+Baseline conduct expectations for the server, this applies to every member regardless of rank.
 
 ## Conduct
 

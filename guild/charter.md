@@ -33,15 +33,15 @@ Fun, profit, and PvP together, that's the point. This isn't a roleplay-required 
 
 - Regular Mists content once the roster supports it.
 - A guild hideout in the Roads of Avalon.
-- Dominate the Caerleon market by acquiring individual city building plots (via the 4-week blind auction system, see `reference/game-notes.md`) to control local resources and production.
+- Dominate the Caerleon market by acquiring individual city building plots (via the game's 4-week blind auction system) to control local resources and production.
 - A possible alliance with a larger guild, for support only, not to participate in their ZvZ content.
 
 ## Recurring Events
 
-- **Auction Night:** the leader/officers seed rare items at a cheap starting price and run a live call-out auction ("going once, going twice..."), members-first. Full mechanics live in `discord/dispatch-board-rules.md`.
+- **Auction Night:** the leader/officers seed rare items at a cheap starting price and run a live call-out auction ("going once, going twice..."), members-first. Full mechanics are pinned in #dispatch-board.
 - **Fight Club:** a recurring PvP night. Officers supply Hellgate and Corrupted Dungeon maps as a resource so there's always content ready to run.
 
-Server conduct rules live in `discord/welcome-rules.md`, posted alongside this charter in `#welcome-and-charter`.
+Server conduct rules are pinned alongside this charter in #welcome-and-charter.
 
 ## Recruitment Channel Pitch (Draft)
 
