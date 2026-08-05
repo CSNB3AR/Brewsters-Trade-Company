@@ -10,7 +10,19 @@ Not open to everyone automatically. Roles needed: Tank/Initiator, Healer, CC/Sup
 
 ## Faction Warfare
 
-Details still being worked out, not fully defined yet. Faction warfare happens in the black zone, folded into regular guild PvP activity rather than a separate scheduled event for now.
+We flag for Caerleon. Caerleon fame requirement is the same 250k floor as general and PvP fame.
+
+**How flagging works:** click the flag button and hold still for 15 seconds while it charges. You can only flag for the faction tied to whatever city you're standing in, so re-flagging means traveling back to Caerleon each time. Hellgates, Arena, GvGs, and Expeditions all auto-unflag you on entry.
+
+**Loot drop by zone, this is the part that actually matters:**
+- **Blue and Yellow zones:** lose a fight while flagged and you get knocked down, no gear loss.
+- **Red zones:** full loot applies, lose a fight and everything equipped plus your inventory is lootable.
+- **Black zones:** always full loot regardless of flag, that's baseline black zone risk, not a faction thing.
+- Red zone kills earn roughly triple the faction points of the same kill in a yellow zone. Higher risk, higher payout.
+
+**How Caerleon plays, and it's different from every other faction:** there's no army to join, no zerg. Other Caerleon-flagged players can attack each other too, it's every crew for themselves. Captured Outposts become bandit camps that pay whoever's holding them directly, not the whole faction. The actual play is small squads raiding Outposts or third-partying other factions' fights mid-battle, not massing up for a push.
+
+Because of that small-squad structure, faction pushes need to be timed and organized in advance, not something people just wander into solo. A dedicated faction push day is wanted, day not locked into the schedule yet.
 
 ## PvP Schedule
 

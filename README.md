@@ -28,5 +28,5 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 - Custom Discord bot not started yet, see `operations/tools-and-bots.md` for what to use in the meantime. A membership application bot is also wanted, not yet started.
 - Gear tier for guild-provided gear and full respect/conduct rules not yet defined (see `guild/conduct-and-gear.md`).
 - Exact quantities of Corrupted Dungeon Maps and Hellgate Rituals already purchased need confirming, currently noted as ~100 each (see `operations/starter-inventory.md`).
-- Faction warfare specifics beyond the basic loop aren't fully defined yet (see `discord/guard-rules.md`).
+- Faction push day not locked into the weekly schedule yet (see `discord/guard-rules.md`).
 - Fame cap number for the monthly-scaling policy hasn't been set yet (see `guild/structure.md`).

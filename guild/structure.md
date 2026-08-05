@@ -29,7 +29,7 @@ Department specialization (Route Runner, Crafter, PvP Roster) is a tag layered o
 
 ## Recruitment
 
-**Fame requirement:** 250k fame to apply, general/normal fame and PvP fame both. This is the entry bar, it's not about skill, it's proving someone has put in enough hours to know they actually like the game.
+**Fame requirement:** 250k fame to apply, general/normal fame and PvP fame both. Faction fame follows the same 250k floor. This is the entry bar, it's not about skill, it's proving someone has put in enough hours to know they actually like the game.
 
 **Fame floor scales monthly:** the requirement rises each month based on the lowest active member's fame, with an eventual cap. Not a number fixed in stone forever.
 
