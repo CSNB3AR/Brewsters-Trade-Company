@@ -11,14 +11,13 @@ Based in Caerleon on purpose. If that means nothing to you yet, that's fine, we'
 **What we do:**
 - Crystal League, Hellgates, Corrupted Dungeons, Roads of Avalon, open-world PvP, Caerleon faction warfare
 - Route running and a real crafting economy, trade is treated as seriously as combat
-- Small-scale PvP, guerrilla-style, that's the whole identity
-- A pirate-flavored crew that treats trade and combat as the same hustle, not two separate guilds glued together
+- Small-scale PvP, guerrilla-style identity
 
 **What we're looking for:**
 - 250k fame minimum (general, PvP, and faction all use the same bar)
 - Active roughly 5 PM-6 AM Central, that's our locked prime time
-- Willing to actually fight. Trial members can start in blue/yellow zones to learn, but the goal is working your way up toward black zone content
-- Self-sufficient, and we're willing to help you get there. Learn the game, earn your own silver, and we'll help you grow it
+- Members start in blue/yellow/red zones and work toward black zone content
+- Self-sufficient, we're willing to help you grow your own silver
 
 Real profit-sharing, real structure, and room to actually grow through the ranks.
 

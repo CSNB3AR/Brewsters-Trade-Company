@@ -27,7 +27,7 @@ The guild is black-zone capable, this is core identity, not an occasional extra.
 - **Red zone:** dominate and bully the red zone territory around Caerleon.
 - **Yellow zone:** used deliberately as a recruiting funnel for newer and younger players to get early PvP reps and faction warfare experience before moving into harder content. It's an entry point, not the ceiling of what the guild does.
 - **Market ambition:** dominate the market board, not just participate in it.
-- **Focus:** small-scale, guerrilla-style engagements over full territory conquest. That's the identity, not a consolation prize.
+- **Focus:** small-scale, guerrilla-style engagements over full territory conquest.
 
 ## Why This Guild Exists
 
