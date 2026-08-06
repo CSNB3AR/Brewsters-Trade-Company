@@ -10,9 +10,26 @@ This is the guild's bread and butter outside of structured content, red and blac
 
 ## Real Gank/Roam Builds, Not Just "Bring Something"
 
-- **Bloodletter (Dagger):** the most versatile high-tier pick for open-world ganking right now, hard-to-match mobility and a spell lockdown (Inner Corruption). Combo runs Deadly Swipe to stack damage, Throwing Blades to keep pressure on, Lunging Stabs as the execute once a target's low.
-- **1H Spear + Torch + Hunter Hood:** same build that works for Corrupted Dungeons, kiting range plus a 30-second reflect window off the Hunter Hood.
-- **2026 meta note:** the current weapon meta rewards tempo. Slow weapons are losing ground, whatever you bring needs to kill fast, reset efficiently, or contribute real damage inside a short burst window.
+**Starter Build: Bloodletter**
+
+The most versatile high-tier pick for open-world ganking right now, hard-to-match mobility and a spell lockdown (Inner Corruption).
+
+| Slot | Item |
+|---|---|
+| Weapon | Bloodletter |
+| Off-hand | Mistcaller |
+| Head | Hellion Hood |
+| Chest | Stalker Jacket |
+| Shoes | Demon Boots |
+| Cape | Thetford Cape |
+| Potions | Major Gigantify Potion, Major Resistance Potion |
+| Food | Beef Stew |
+
+Combo runs Deadly Swipe to stack damage, Throwing Blades to keep pressure on, Lunging Stabs as the execute once a target's low.
+
+**Alternative: 1H Spear.** Same build that works for Corrupted Dungeons (see that guide for the full loadout), kiting range plus a 30-second reflect window off the Hunter Hood, a good fit if Dagger-style mobility play isn't your thing.
+
+**2026 meta note:** the current weapon meta rewards tempo. Slow weapons are losing ground, whatever you bring needs to kill fast, reset efficiently, or contribute real damage inside a short burst window.
 
 ## Mounts
 

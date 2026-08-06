@@ -11,13 +11,22 @@ You fight through a dungeon full of demonic enemies toward a final boss. While y
 - **Hunter (T5):** the beginner tier. No item loss even if you die, roughly 700 IP minimum with a 900 IP soft cap. Learn the mechanics here first.
 - **Stalker (T6) and up:** lethal, full loot, higher risk and higher reward. Don't move up until Hunter feels easy.
 
-## A Real Solo Build: 1H Spear + Torch + Hunter Hood
+## A Real Solo Build: 1H Spear
 
-This is a genuinely strong current pick for solo CD play, not just "bring any weapon":
+This is a genuinely strong current pick for solo CD play, not just "bring any weapon," and it's the same weapon consistently ranked the top overall beginner pick across solo content in general, forgiving, high mobility, room to correct a mistake mid-fight instead of just dying to it.
 
-- **Weapon:** 1H Spear, good sustained damage with real kiting range.
-- **Off-hand:** Torch, adds extra pressure and some self-sustain.
-- **Head:** Hunter Hood, the standout piece, its reflect ability has a 30-second cooldown and turns one incoming burst combo back on the attacker. Treat that reflect window as your core defensive tool.
+| Slot | Item |
+|---|---|
+| Weapon | 1H Spear |
+| Off-hand | Torch |
+| Head | Hunter Hood |
+| Chest | Mercenary Jacket |
+| Shoes | Soldier Boots |
+| Cape | Thetford Cape |
+| Potion | Major Healing Potion |
+| Food | Deadwater Eel Stew |
+
+- **Hunter Hood** is the standout piece, its reflect ability has a 30-second cooldown and turns one incoming burst combo back on the attacker. Treat that reflect window as your core defensive tool.
 - **Armor logic:** don't feel locked into a matching set. The current meta deliberately mixes weights, a kiting caster often runs one plate piece purely for the extra healing it grants, a melee brawler runs a cloth or leather chest for the sustain bonus instead of matching their weapon's "native" armor class. Think slot-by-slot, not full-set.
 
 Fire Staff and Bow are both viable alternative weapons if Spear doesn't fit your playstyle, same kiting-and-punish approach applies.

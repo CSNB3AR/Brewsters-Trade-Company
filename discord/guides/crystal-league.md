@@ -14,9 +14,24 @@ Practice in the non-lethal Arena first, no item loss, and it's where you actuall
 
 ## The Current 5v5 Meta Comp
 
-This is a real, named comp, not a vague "bring a tank and healer" gesture:
+This is a real, named comp, not a vague "bring a tank and healer" gesture.
 
-- **Rotcaller Staff:** the mandatory piece of the comp. Gear: Mistcaller (off-hand), Guardian Helmet, Cleric Robe, Mercenary Shoes, Thetford Cape. Sets the pace of a fight and provides sustained group pressure.
+**Starter Build: Rotcaller Staff (RDPS), the mandatory piece of the comp**
+
+| Slot | Item |
+|---|---|
+| Weapon | Rotcaller Staff |
+| Off-hand | Mistcaller |
+| Head | Guardian Helmet |
+| Chest | Cleric Robe |
+| Shoes | Mercenary Shoes |
+| Cape | Thetford Cape |
+| Potion | Major Resistance Potion |
+| Food | Deadwater Eel Stew |
+
+Sets the pace of a fight and provides sustained group pressure. This is the one weapon nearly every current comp builds around.
+
+**Other roles:**
 - **Tank/Initiator:** pick one of Polehammer (reliable stun-focused control), Bedrock Mace (area denial, strong at stabilizing choke points), or Truebolt Hammer (flexible off-tank zoning tool).
 - **Healer:** Hallowfall is the standard 5v5 healer weapon.
 - **DPS:** fill remaining slots with whatever the frontline needs, ranged pressure to punish backline healers, melee to threaten a swap onto their healer.

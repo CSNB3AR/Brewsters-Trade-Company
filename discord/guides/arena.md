@@ -10,6 +10,23 @@ Arena is a 5v5 instanced matchmaker, non-full-loot, essentially the practice ver
 
 Worth knowing going in: solo queue matchmaking has real, well-documented balance complaints from the community, rank gain/loss leans heavily on win streaks, and solo players regularly end up facing coordinated premades. Don't read a rough solo-queue stretch as "you're bad," the matchmaking itself is a known weak point. Queuing with even one or two guildmates smooths this out a lot.
 
+## Starter Build: 1H Spear
+
+The top overall beginner pick across solo content, forgiving, high mobility, room to correct a mistake mid-fight instead of just dying to it. A fine first build to learn Arena on before branching into a role-specific Crystal League weapon.
+
+| Slot | Item |
+|---|---|
+| Weapon | 1H Spear |
+| Off-hand | Torch |
+| Head | Hunter Hood |
+| Chest | Mercenary Jacket |
+| Shoes | Soldier Boots |
+| Cape | Thetford Cape |
+| Potion | Major Healing Potion |
+| Food | Deadwater Eel Stew |
+
+Hunter Hood's reflect (30-second cooldown) turns one incoming burst combo back on the attacker, that's the core defensive tool in this build.
+
 ## How To Use It
 
 - Pick one build and run it repeatedly. Don't hop between weapons every match, you won't learn anything that way.

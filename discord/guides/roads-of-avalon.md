@@ -6,6 +6,23 @@ A shifting network of black-zone-only pathways separate from the rest of the map
 
 The Roads aren't a fixed place, the layout changes constantly and no area is accessible the same way twice. Every zone in there is Black Zone, full loot, so this isn't beginner-friendly territory, get comfortable with open-world PvP first.
 
+## Starter Build for Traveling the Roads
+
+The Roads reward survivability and kiting range over raw burst, since you're dealing with unpredictable ambushes in unfamiliar layouts. 1H Spear is the pick:
+
+| Slot | Item |
+|---|---|
+| Weapon | 1H Spear |
+| Off-hand | Torch |
+| Head | Hunter Hood |
+| Chest | Mercenary Jacket |
+| Shoes | Soldier Boots |
+| Cape | Thetford Cape |
+| Potion | Major Healing Potion |
+| Food | Deadwater Eel Stew |
+
+Hunter Hood's 30-second reflect is especially valuable here, an ambush on the Roads is usually a burst-damage opener, and reflecting it back can turn a bad situation into a kill.
+
 ## Getting In
 
 Avalonian Portals appear in every zone Tier 5 and above, on both the Royal Continent and the Outlands. Each portal has a set number of charges, one charge is used per entry, and charges recharge every 5 minutes. Portals also despawn on a timer, they're not permanent.

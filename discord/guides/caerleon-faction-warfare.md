@@ -16,6 +16,23 @@ This depends entirely on the zone you're in, not the flag itself:
 
 Red zone kills also pay about triple the faction points of a yellow zone kill, so there's a real incentive to push deeper once you're ready.
 
+## Starter Build for Outpost Pushes
+
+Bloodletter fits the small-squad raiding playstyle: mobility to catch a Guard patrol off-guard, a spell lockdown for the Champion fight, and enough burst to finish outpost pushes fast before another faction shows up to contest.
+
+| Slot | Item |
+|---|---|
+| Weapon | Bloodletter |
+| Off-hand | Mistcaller |
+| Head | Hellion Hood |
+| Chest | Stalker Jacket |
+| Shoes | Demon Boots |
+| Cape | Thetford Cape |
+| Potions | Major Gigantify Potion, Major Resistance Potion |
+| Food | Beef Stew |
+
+Combo: Deadly Swipe to stack damage, Throwing Blades to keep pressure on guards and champions alike, Lunging Stabs as the execute.
+
 ## How Outposts Actually Work
 
 Outposts are guarded by at least 7 Guards plus a Champion. Clear those, and a capture ring appears, stay inside it until the bar fills to take it. You need at least 3 players for the boss fight, mechanics get significantly harder below that number. There's a tradeoff built into group size: more players means a safer fight and better odds of defending against another faction jumping in, but the reward splits thinner per person. Fewer players means a bigger individual cut, but more risk. A captured outpost locks out other factions from contesting it again for about 20 minutes.
