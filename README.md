@@ -17,6 +17,7 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 | `discord/guard-rules.md` | PvP guidelines, Crystal League roster access, faction warfare, and the weekly PvP schedule. |
 | `discord/guides/` | Beginner guides for `#guides`: Crystal League, 2v2 Hellgates, Corrupted Dungeons, Open World PvP, Arena, Roads of Avalon, Caerleon Faction Warfare. |
 | `discord/recruitment-ad.md` | Outbound recruitment copy for posting on other servers/guild boards. |
+| `discord/application-form.md` | Full membership application, question by question, for configuring into the application bot. |
 | `operations/tools-and-bots.md` | Recommended market-price Discord bots to use until a custom bot is built. |
 | `operations/starter-inventory.md` | Guild bank/warehouse shopping list: consumables, crafting materials (concrete quantities), mounts. |
 | `pvp/recruiting-criteria.md` | Crystal League roles needed and how to evaluate recruits. |
