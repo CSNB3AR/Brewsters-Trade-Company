@@ -2,6 +2,18 @@
 
 Full question-by-question application. Every applicant answers all of these before moving to Recruit rank.
 
+## Panel Message
+
+The intro message shown before someone starts the application, sets expectations up front so people don't waste time:
+
+> **Apply to Brewster's Trade Company**
+>
+> Caerleon-based, small-scale PvP and trade guild. Before you start, know the hard requirements: this application is for your **main account only**, we don't accept alts as members right now, and we don't allow **double guild membership**, if you're currently in another guild, you'll need to have actually left it first.
+>
+> You'll need proof ready: a character sheet screenshot showing your average Item Power, and your fame totals (general and PvP, both need to clear 250k) via screenshot or your killboard link.
+>
+> Click below to start the application. It takes a few minutes, answer honestly, we'd rather know now than find out later.
+
 ## Eligibility Gates (Answer Honestly, These Can Disqualify)
 
 1. **Is this your main account?** Brewster's Trade Company is only accepting main accounts as members right now, not alts. This may change in the future, but it's a hard requirement today. Applying on an alt gets the application rejected.
@@ -29,3 +41,25 @@ Full question-by-question application. Every applicant answers all of these befo
 ## Anything Else
 
 13. Anything else we should know?
+
+## Acceptance Message
+
+> **Welcome to Brewster's Trade Company.**
+>
+> You're in as a **Recruit**. That's a trial rank, not a formality, it's there to confirm fame and activity before you move up to Associate.
+>
+> A few things to do right away:
+> - Read the charter and server rules pinned in #welcome-and-charter.
+> - Check out #guides for beginner walkthroughs on Crystal League, Hellgates, Corrupted Dungeons, Arena, Roads of Avalon, and Caerleon Faction Warfare.
+> - Pick a content focus (Route Running, Crafting, or PvP) if you haven't already, that's your path toward Operative.
+> - Introduce yourself in #common-room.
+>
+> Glad to have you. Small crew, real trade, real fights, let's get to work.
+
+## Decline Message
+
+> Thanks for applying to Brewster's Trade Company.
+>
+> We're not able to bring you on right now. This isn't personal, it usually comes down to not meeting the current fame/IP floor, an eligibility gate (main account or guild membership), or fit with where the guild's at right now.
+>
+> If your situation changes, fame's up, you've left your other guild, whatever it was, you're welcome to reapply. Good luck out there.
