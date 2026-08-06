@@ -8,6 +8,17 @@ This is the guild's bread and butter outside of structured content, red and blac
 - Keep a mobility option slotted (a dash, a blink, a fast mount) so you always have a way to disengage.
 - Keep invisibility potions on hand, they're one of the most reliable escape tools in the game.
 
+## Real Gank/Roam Builds, Not Just "Bring Something"
+
+- **Bloodletter (Dagger):** the most versatile high-tier pick for open-world ganking right now, hard-to-match mobility and a spell lockdown (Inner Corruption). Combo runs Deadly Swipe to stack damage, Throwing Blades to keep pressure on, Lunging Stabs as the execute once a target's low.
+- **1H Spear + Torch + Hunter Hood:** same build that works for Corrupted Dungeons, kiting range plus a 30-second reflect window off the Hunter Hood.
+- **2026 meta note:** the current weapon meta rewards tempo. Slow weapons are losing ground, whatever you bring needs to kill fast, reset efficiently, or contribute real damage inside a short burst window.
+
+## Mounts
+
+- **Specter Wolf:** the standout ganking mount, active invisibility for both the ambush and the escape. Pairs well with a high-mobility build.
+- **Swiftclaw:** the budget option, fast and cheap enough to dive red zones without it being a huge loss if it dies.
+
 ## Staying Alive
 
 - Inspect anyone you pass. Figure out fast whether they're a ganker, a gatherer, or just another roamer, don't walk in blind.
@@ -21,5 +32,6 @@ Open world fights favor whoever controls the engage. If you're confident in your
 ## Getting Started Checklist
 
 1. Run your first few sessions in a group, not solo, until you know the zones.
-2. Keep a cheap, replaceable loadout until you've got a feel for how fights actually go.
+2. Keep a cheap, replaceable loadout until you've got a feel for how fights actually go, Swiftclaw plus a budget weapon is a fine starting point.
 3. Learn to read the map and other players before you learn anything else.
+4. Once you're ready to commit, move up to a Bloodletter or Spear build and a Specter Wolf.

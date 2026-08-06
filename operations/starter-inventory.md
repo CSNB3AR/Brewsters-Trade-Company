@@ -13,16 +13,24 @@ Source: [KeenGamer - Corrupted Dungeons](https://www.keengamer.com/articles/guid
 
 ## Crafting Materials Warehouse
 
-Real shopping list, not a vague category. Capped at Tier 5 and below, nothing higher gets stocked. Aim for at least 5 stacks (roughly 50 units) per line, budget ceiling around 1M silver per line, adjust the unit count down if market price makes that unrealistic for a given item.
+Real shopping list, not a vague category. Full range this time, Tier 2 through Tier 5, nothing higher gets stocked. Aim for at least 5 stacks (roughly 50 units) per line, budget ceiling around 1M silver per line, adjust the unit count down if market price makes that unrealistic for a given item. Lower tiers (T2-T3) are cheap enough that hitting 50+ units should be easy and cheap, most of the actual budget goes toward T4-T5.
 
 | Item | Quantity Target | Notes |
 |---|---|---|
+| T2 Planks | 5 stacks (~50) | Cheap, stock generously |
+| T3 Planks | 5 stacks (~50) | Cheap, stock generously |
 | T4 Planks | 5 stacks (~50) | |
 | T5 Planks | 5 stacks (~50) | |
+| T2 Metal Bar | 5 stacks (~50) | Cheap, stock generously |
+| T3 Metal Bar | 5 stacks (~50) | Cheap, stock generously |
 | T4 Metal Bar | 5 stacks (~50) | |
 | T5 Metal Bar | 5 stacks (~50) | |
+| T2 Cloth | 5 stacks (~50) | Cheap, stock generously |
+| T3 Cloth | 5 stacks (~50) | Cheap, stock generously |
 | T4 Cloth | 5 stacks (~50) | |
 | T5 Cloth | 5 stacks (~50) | |
+| T2 Leather | 5 stacks (~50) | Cheap, stock generously |
+| T3 Leather | 5 stacks (~50) | Cheap, stock generously |
 | T4 Leather | 5 stacks (~50) | |
 | T5 Leather | 5 stacks (~50) | |
 
@@ -34,13 +42,15 @@ Split logic for using these is already defined in `discord/dispatch-board-rules.
 
 ## Mount Stable
 
-Three budget picks, not the expensive ZvZ/battle mounts covered separately in `character/playbook.md`:
+Three budget picks, not the expensive ZvZ/battle mounts covered separately in `character/playbook.md`. Concrete starting quantities, not just types:
 
-| Mount | Use |
-|---|---|
-| T5+ Horse | Cheap, fast, general-purpose. Errands and chaining activities in a session. Cheap enough that losing one to a gank doesn't hurt. |
-| Giant Stag | Balances speed with real carry capacity. The route-running pick. |
-| Armored Horse | Trades some speed for a defensive shield. Useful for escorted/protected runs. |
+| Mount | Quantity to Buy | Use |
+|---|---|---|
+| T5+ Horse | 5 | Cheap, fast, general-purpose. Errands and chaining activities in a session. Cheap enough that losing one to a gank doesn't hurt. |
+| Giant Stag | 5 | Balances speed with real carry capacity. The route-running pick. |
+| Armored Horse | 3 | Trades some speed for a defensive shield. Useful for escorted/protected runs, lower quantity since it's a more situational pick than the other two. |
+
+That's 13 mounts total to start the stable. Scale up from there once actual usage patterns show which type runs out first.
 
 Split logic for guild-provided mounts is already defined in `discord/dispatch-board-rules.md`: guild supplies the mount, 75% guild / 25% runner.
 

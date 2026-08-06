@@ -1,5 +1,13 @@
 # Guild Charter
 
+## Our Mission
+
+Brewster's Trade Company is a small-scale, pirate-themed trade and PvP guild based in Caerleon. The idea behind it: a free, rogue, bandit-flavored crew, not a polished kingdom army. We run structured small-scale PvP, Roads of Avalon, Mists, Crystal League, and Caerleon's own flavor of faction warfare, and trade is a real income engine here, not a side hustle bolted onto combat.
+
+Being a Caerleon-flagged faction means we're not tied to one of the five Royal armies. There's no zerg to fall in behind, it's small bandit crews raiding Outposts and third-partying other factions' fights. That fits the whole identity: small-scale PvP, not blob PvP, and it means faction warfare runs on our own terms instead of needing a big alliance network to function.
+
+The goal is real influence at small scale: spread our name, own city plots and territory, hold a hideout, and compete seriously in Crystal League, aiming for the top of the guild rankings, without turning into just another mega-guild along the way. Roads of Avalon gets heavy focus specifically because it doesn't lock anyone into one fixed meta, there's genuine room to experiment with builds there. Beginner-friendly matters, but the target is always end-game-viable content, not one or the other.
+
 ## Identity
 
 - **Name:** Brewster's Trade Company ("Morgana" was considered earlier and rejected)
@@ -27,7 +35,7 @@ Trade is taken as seriously as combat, this isn't a PvP guild with a side hustle
 
 ## Guild Tone
 
-Fun, profit, and PvP together, that's the point. This isn't a roleplay-required guild, though anyone who wants to lean into that is welcome to. The baseline expectation is that people are here to enjoy it, not just grind logistics.
+Fun, profit, and PvP together, that's the point. This isn't a roleplay-required guild, though anyone who wants to lean into that is welcome to. The baseline expectation is that people are here to enjoy it, not just grind logistics. That baseline includes basic respect: no hazing, no harassment, no bullying, regardless of rank. Real conduct rules and enforcement live in the server rules, but the short version is simple, treat people decently or don't stick around.
 
 ## Long-Term Goals
 
@@ -38,10 +46,8 @@ Fun, profit, and PvP together, that's the point. This isn't a roleplay-required 
 
 ## Recurring Events
 
-- **Auction Night:** the leader/officers seed rare items at a cheap starting price and run a live call-out auction ("going once, going twice..."), members-first. Full mechanics are pinned in #dispatch-board.
+- **Auction Night:** the leader or officers seed rare items at a cheap starting price and run a live call-out auction, "going once, going twice, sold," members-first. Members can submit an item ahead of time for the queue: item name, quality/enchant, starting bid, and the reason (loot drop, contribution, etc). Items bought this way can't be flipped for personal profit on the open market, two-strike enforcement, warning first, market ban second.
 - **Fight Club:** a recurring PvP night. Officers supply Hellgate and Corrupted Dungeon maps as a resource so there's always content ready to run.
-
-Server conduct rules are pinned alongside this charter in #welcome-and-charter.
 
 ## Recruitment Channel Pitch (Draft)
 

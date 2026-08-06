@@ -8,11 +8,14 @@ Hellgates are entered via a Hellgate Ritual, craftable at the Artifact Foundry, 
 
 ## Non-Lethal First
 
-Non-lethal Hellgates are the practice tier, no full loot risk. Run these until the mechanics are second nature before touching lethal. Minimum ~800 IP to enter 2v2, non-lethal caps at 900 IP.
+Non-lethal Hellgates are the practice tier, no full loot risk. Run these until the mechanics are second nature before touching lethal. Minimum ~800 IP to enter 2v2, non-lethal caps at 900 IP. Lethal 2v2 wants closer to 1100 IP before it's a fair fight.
 
-## Composition
+## The Meta Comp: DPS + Healer
 
-DPS + Healer is the standard, effective 2v2 comp. Double-DPS exists but performs worse in practice.
+Double-DPS exists but consistently loses to a proper DPS+Healer pair in practice.
+
+- **Healer:** Holy Staff. The Helm of Valor variant is a well-documented current build, sustain-focused, keeps the DPS partner alive through extended trades.
+- **DPS:** pick one, all three are viable current picks: Claymore (heavy single-target burst), Broadsword (sustained pressure with some self-sustain), Dagger (mobility-heavy, good at punishing a healer who overextends).
 
 ## Inside the Gate
 
@@ -23,5 +26,5 @@ DPS + Healer is the standard, effective 2v2 comp. Double-DPS exists but performs
 ## Getting Started Checklist
 
 1. Run a few non-lethal gates first, learn the layout and the zone timer.
-2. Lock in a DPS + Healer pair with someone you communicate well with.
-3. Move up to lethal once your gear can absorb a loss without setting you back hard.
+2. Lock in a DPS + Healer pair with someone you communicate well with, Holy Staff healer paired with Claymore, Broadsword, or Dagger.
+3. Move up to lethal once your gear can absorb a loss without setting you back hard, and once you're comfortable around the 1100 IP range.

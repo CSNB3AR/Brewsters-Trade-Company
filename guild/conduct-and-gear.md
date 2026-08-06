@@ -8,8 +8,8 @@ Most guilds provide gear to members at a certain fame/rank tier. Brewster's Trad
 
 ## Mount Rental
 
-The guild provides mounts for Guild-Funded route runs. The percentage cut on those runs is defined in `discord/dispatch-board-rules.md` (75% guild / 25% runner when the guild supplies the mount).
+The guild provides mounts for Guild-Funded route runs. When the guild supplies the mount, the split is 75% guild / 25% runner.
 
 ## Respect and Conduct
 
-Resolved, server conduct rules and membership rules are both pinned in #welcome-and-charter.
+Baseline: no hazing, no harassment, no bullying, regardless of rank. No toxicity or flaming on wins or losses. Keep personal disputes off public channels, take it to an officer. Two-strike enforcement on most violations, warning first, kick or demotion second, except scams, hacks, or serious harassment, which are immediate.

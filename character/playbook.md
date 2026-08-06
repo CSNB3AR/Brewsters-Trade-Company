@@ -149,10 +149,29 @@ Build genuine PvP competence and credibility before actively recruiting or leani
 - Level the main character for potion-making and farming while based in Caerleon, to take advantage of the city's crafting bonus.
 - **Undecided:** whether Sky stays a dedicated potion character, or gets folded into the main. Plan holds either way, no decision needed yet.
 
+## Daily/Weekly Routine (Testing Phase)
+
+Not promises, actual systems being run before anyone gets invited. The logic: test every activity personally before asking members to trust it.
+
+**Daily:**
+- 1 trade run on the Black Market, keeps the account active and doubles as officer training material later.
+- 1-2 Corrupted Dungeons.
+- Expeditions.
+- Arena reps ("free stuff").
+- 1 open-world engagement in the black zone, one gank or one fight, not a grinding session, just staying sharp.
+
+**Weekly/Ongoing:**
+- Level up potion-making, currently blocked since the farms aren't usable yet.
+- Test Hellgates, Crystal Arena, and dig deeper into Roads of Avalon/Mists mechanics.
+- Faction Warfare is the one activity that can't be tested solo, it genuinely needs a group.
+
 ## Asset Status
 
 - Ownership or co-ownership of nearly all island/building assets has already been transferred from Sky and Artemis onto the main character.
 - One island could not be transferred (reason not yet determined; flag for follow-up).
+- Two personal islands currently: Thetford and Martlock. Martlock is the one everyone will eventually get access to, no further islands are being opened up to other members, it's about resource access, not group housing.
+- Plan to add a third island in Caerleon once it makes sense, cuts down on transport time between the guild's home base and personal production.
+- **Idea worth pursuing:** renting out plot farms to members who can't get their own. Fits the trade-company identity directly, and solves a real problem (limited plot availability) instead of just sitting on unused capacity.
 
 ## Mount Plan
 

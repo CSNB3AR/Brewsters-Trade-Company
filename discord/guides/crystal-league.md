@@ -12,13 +12,23 @@ Practice in the non-lethal Arena first, no item loss, and it's where you actuall
 - 5v5 runs matches from level 1 to level 9, 20v20 runs level 2 to level 7. Win a match and your token levels up, unlocking better rewards but tougher item power requirements.
 - Matches are objective-based around Runestones. Whoever holds the most Runestones when a round ends scores, then Runestones reset for the next round.
 
+## The Current 5v5 Meta Comp
+
+This is a real, named comp, not a vague "bring a tank and healer" gesture:
+
+- **Rotcaller Staff:** the mandatory piece of the comp. Gear: Mistcaller (off-hand), Guardian Helmet, Cleric Robe, Mercenary Shoes, Thetford Cape. Sets the pace of a fight and provides sustained group pressure.
+- **Tank/Initiator:** pick one of Polehammer (reliable stun-focused control), Bedrock Mace (area denial, strong at stabilizing choke points), or Truebolt Hammer (flexible off-tank zoning tool).
+- **Healer:** Hallowfall is the standard 5v5 healer weapon.
+- **DPS:** fill remaining slots with whatever the frontline needs, ranged pressure to punish backline healers, melee to threaten a swap onto their healer.
+
 ## Getting on the Roster
 
-Not everyone gets pulled onto the guild's Crystal League team automatically, see the pinned PvP guidelines in #muster for roles needed and how roster spots get evaluated.
+Not open to everyone automatically. Roles needed: Tank/Initiator, Healer, CC/Support, 1-2 DPS. Evaluated on depth of role knowledge (not just kills), gear self-sufficiency, comms discipline, availability matching the guild's locked prime-time window, killboard/match history, team-first mentality, and willingness to be filmed for content. Roster spots go to members who fit a needed role, not just whoever asks first.
 
 ## Getting Started Checklist
 
 1. Pick one build and stick with it, don't spread yourself across five weapons.
 2. Grind Arena matches until your combo is second nature.
-3. Watch your own replays or ask an officer to review a fight.
-4. Queue Crystal League once you can hold your own in Arena consistently.
+3. Learn the Rotcaller comp structure above even if you're not the one playing Rotcaller, knowing what your team needs from each role matters.
+4. Watch your own replays or ask an officer to review a fight.
+5. Queue Crystal League once you can hold your own in Arena consistently.

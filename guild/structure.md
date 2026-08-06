@@ -41,7 +41,7 @@ Specialized and active in a department. Proven contributor, this is where most a
 
 **Perks (Route Runner):** guild-funded route running eligibility, once the standard 5-self-funded-run requirement is met.
 
-**Perks (Crafter):** eligible for the Workshop Crew stipend once qualified (2-3 item types at T5/T6, see the Workshop rules for the full pay structure).
+**Perks (Crafter):** eligible for the Workshop Crew once qualified (able to craft 2-3 item types at T5/T6). Crew members get a stipend, roughly 25,000-30,000 silver per 1.5-2 week pay period, for filling Order Board requests during that window, guild orders take priority, no orders filled means no payout that period.
 
 **Perks (PvP Roster):** grouped-up PvP and faction warfare pushes carry a profit split when the guild fronts consumables or mounts for the push, mirroring the Route Running split logic. Exact percentage not set yet, this is flagged open, not guessed at.
 
@@ -73,11 +73,28 @@ Recruitment is framed as a "hiring pitch." Operational specifics (exact black ma
 
 ## Membership Rules
 
-Full membership rules (activity/absence policy, guild tax, gear reimbursement, guild-funded eligibility) are pinned in #welcome-and-charter.
+What's expected once you're accepted, separate from general server conduct:
+
+1. **Self-sufficiency.** Once you're in, you're expected to learn the game and earn your own silver. This guild isn't a personal bank, no beggars or freeloaders. Guild funding exists for guild activity, not for handing out silver to individuals.
+2. **Activity and absence.** Members need to be in the Discord server while actively playing. Going to be gone longer than 14 days? Reach out to an officer before you go dark, not after. Give notice and you get a 30-day grace period, no questions asked for real-life stuff. No notice and no activity means we start looking at removal to keep the roster reflecting who's actually still around.
+3. **Guild tax.** A flat 5% tax applies guild-wide, funding the reimbursement pool and general operations.
+4. **Gear and mount reimbursement.** Only applies to guild-organized runs and events, not personal activity. Reimbursement matches what was actually equipped, never exceeds it. Gear brought above the standard for an event is the member's own risk.
+5. **Guild-funded eligibility.** At least 5 self-funded runs on record before anyone gets access to guild-funded route running. Prove the route before the guild fronts the capital.
+6. **PvP is not optional forever.** Trial members can start in blue or yellow zones to learn, that's what they're there for. But earning PvP fame is a required stepping stone, not something to sit out of indefinitely. This isn't a guild for people scared to fight.
 
 ## Weekly Rhythm
 
-Sundays, when online, officers meet to plan the coming week's route running coverage. Route cadence targets are pinned in #dispatch-board, the PvP weekly schedule is pinned in #muster and #the-pit.
+- **Monday-Friday:** Faction Warfare group-up attempts during 23:00-12:00 UTC (5 PM-6 AM Central).
+- **Friday:** Fight Club, the recurring PvP night.
+- **Saturday evening:** Crystal League, Hellgates as the fallback if a match isn't popping.
+- **Sunday (if online):** officer planning meeting, sets the coming week's route running coverage and PvP scheduling.
+- **Route Running cadence:** guild-wide objective of 6 routes a week minimum, either 1/day Monday through Saturday (rest Sunday) or 2/day concentrated on Monday/Wednesday/Friday. 2/day across the board is the stretch goal.
+
+No ZvZ content, that stays outside the guild's identity.
+
+## Discord Roles
+
+The rank ladder above doubles as the member role list: **Recruit, Associate, Operative, Broker**, plus department tags once someone specializes, **Route Runner, Crafter, PvP Roster**. Officer roles are already set: **Kingpin, Route Master, Workshop Warden, War Captain, Master of Games, Quartermaster**.
 
 ### Application Process
 

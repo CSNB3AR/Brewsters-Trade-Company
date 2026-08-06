@@ -2,7 +2,9 @@
 
 ## Baseline Expectation
 
-PvP is a huge part of what this guild is. Everyone is expected to get comfortable with it, at whatever pace fits their experience level. Yellow zone and faction warfare are the on-ramp for newer or returning players before harder content, see the pinned charter in #welcome-and-charter for the full PvP identity.
+PvP is a huge part of what this guild is. Everyone is expected to get comfortable with it, at whatever pace fits their experience level. Yellow zone and faction warfare are the on-ramp for newer or returning players before harder content.
+
+The guild is black-zone capable, that's core identity, not an occasional extra: Crystal League is the main focus (5v5 and 20v20), backed by Roads of Avalon, Mists, Hellgates, and Corrupted Dungeons in the black zone. Red zone territory around Caerleon gets dominated, not just visited. Yellow zone is a deliberate on-ramp for newer players, not the ceiling. No ZvZ, no full territory conquest, small guerrilla-style engagements are the whole identity.
 
 ## Crystal League Roster
 
