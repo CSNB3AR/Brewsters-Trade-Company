@@ -12,7 +12,7 @@ The goal is real influence at small scale: spread our name, own city plots and t
 
 - **Name:** Brewster's Trade Company ("Morgana" was considered earlier and rejected)
 - **Base:** Caerleon, a Royal city surrounded by red zones, home to the game's only Black Market, and carrying a crafting bonus.
-- **Size philosophy:** small-scale on purpose. Target is roughly 20 to 30 active members, not 300+. Run like a business, with real profit-sharing.
+- **Size philosophy:** small-scale on purpose. Run like a business, with real profit-sharing and proper structure instead of getting lost in a mega-guild.
 
 ## Why Caerleon
 
@@ -27,7 +27,7 @@ The guild is black-zone capable, this is core identity, not an occasional extra.
 - **Red zone:** dominate and bully the red zone territory around Caerleon.
 - **Yellow zone:** used deliberately as a recruiting funnel for newer and younger players to get early PvP reps and faction warfare experience before moving into harder content. It's an entry point, not the ceiling of what the guild does.
 - **Market ambition:** dominate the market board, not just participate in it.
-- **Explicitly excluded:** ZvZ / blob fighting and full territory conquest. Not fun, not the guild's focus. Small guerrilla-style engagements are the identity.
+- **Focus:** small-scale, guerrilla-style engagements over full territory conquest. That's the identity, not a consolation prize.
 
 ## Why This Guild Exists
 
@@ -53,4 +53,4 @@ Fun, profit, and PvP together, that's the point. This isn't a roleplay-required 
 
 This is the draft copy intended for the recruitment channel:
 
-> "Brewster's Trade Company is based in Caerleon. That's a deliberate choice, not an oversight. This is not a new-player-friendly location, and getting here safely takes a real run through contested territory. If you're not ready for that yet, this isn't the guild to force it. Our combat identity is small-scale and guerrilla-style. Crystal League is our main focus, backed by Arena, Hellgates, Mists, and Corrupted Dungeons in the black zone, and we dominate the red zone around Caerleon. What we don't do is ZvZ or blob fights, we're not interested. If you're looking for a guild that fights small and skilled instead of big and clumsy, treats trade as seriously as combat, and wants to actually control the market instead of just working it, you're in the right place."
+> "Brewster's Trade Company is based in Caerleon. That's a deliberate choice, not an oversight. This is not a new-player-friendly location, and getting here safely takes a real run through contested territory. If you're not ready for that yet, we'll help you get there. Our combat identity is small-scale and guerrilla-style. Crystal League is our main focus, backed by Arena, Hellgates, Mists, and Corrupted Dungeons in the black zone, and we hold our own in the red zone around Caerleon. If you're looking for a guild that fights small and skilled, treats trade as seriously as combat, and wants to actually control the market instead of just working it, you're in the right place."

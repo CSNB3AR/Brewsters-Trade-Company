@@ -18,29 +18,30 @@ The intro message shown before someone starts the application, sets expectations
 
 1. **Is this your main account?** Brewster's Trade Company is only accepting main accounts as members right now, not alts. This may change in the future, but it's a hard requirement today. Applying on an alt gets the application rejected.
 2. **Are you currently a member of another active Albion Online guild?** We don't allow double guild membership at this time. If yes, you'll need to actually leave that guild before joining here, not just plan to.
+3. **List any alt characters you play.** For each alt, name it, note which guild (if any) it's currently in, and its approximate fame/IP. This is a disclosure requirement, not a ban on having alts, it's here to surface any conflicts of interest up front instead of finding out later.
 
 ## Account Proof
 
-3. In-game character name (exact, case-sensitive).
-4. Current average Item Power, character sheet screenshot required as proof.
-5. Current fame totals: general/PvE fame and PvP fame, each with a screenshot or a killboard link as proof. Both need to clear the 250k floor.
-6. Albion Online killboard profile link.
+4. In-game character name (exact, case-sensitive).
+5. Current average Item Power, character sheet screenshot required as proof.
+6. Current fame totals: general/PvE fame and PvP fame, each with a screenshot or a killboard link as proof. Both need to clear the 250k floor.
+7. Albion Online killboard profile link.
 
 ## Fit
 
-7. Content focus preference: Route Running, Crafting, or PvP (primary pick, secondary optional).
-8. Typical play window, with time zone stated. Does it fall within the guild's locked prime time, 5 PM-6 AM Central?
-9. How did you hear about Brewster's Trade Company? If a member referred you, name them, this is how referral credit gets tracked.
-10. Prior guild history: which guild(s), and why did you leave?
-11. PvP comfort check: trial members can start in blue or yellow zones to learn, but earning PvP fame and eventually fighting in red/black zones is a required stepping stone here, not optional. Are you willing to work toward that?
+8. Content focus preference: Route Running, Crafting, or PvP (primary pick, secondary optional).
+9. Typical play window, with time zone stated. Does it fall within the guild's locked prime time, 5 PM-6 AM Central?
+10. How did you hear about Brewster's Trade Company? If a member referred you, name them, this is how referral credit gets tracked.
+11. Prior guild history: which guild(s), and why did you leave?
+12. PvP comfort check: trial members can start in blue or yellow zones to learn, but earning PvP fame and eventually fighting in red/black zones is a required stepping stone here, not optional. Are you willing to work toward that?
 
 ## Agreement
 
-12. Confirm you understand and agree to the guild's membership rules: self-sufficiency (no beggars, earn your own silver), the 14-day activity/absence policy, the 5% guild tax, and the gear/mount reimbursement policy (guild-organized activity only, capped at what was actually equipped).
+13. Confirm you understand and agree to the guild's membership rules: self-sufficiency (no beggars, earn your own silver), the 14-day activity/absence policy, the 5% guild tax, and the gear/mount reimbursement policy (guild-organized activity only, capped at what was actually equipped).
 
 ## Anything Else
 
-13. Anything else we should know?
+14. Anything else we should know?
 
 ## Acceptance Message
 

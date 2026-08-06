@@ -6,19 +6,20 @@ Short, outbound copy for posting on other Discord servers/guild-recruitment boar
 
 **Brewster's Trade Company | Caerleon-based | Small-scale PvP + Trade Guild**
 
-Based in Caerleon on purpose. If that means nothing to you yet, that's fine, we'll teach you, but know it's a deliberate choice: black market, red zones on the doorstep, no training wheels.
+Based in Caerleon on purpose. If that means nothing to you yet, that's fine, we'll teach you, but know it's a deliberate choice: home to the Black Market, and a crew that likes it that way.
 
 **What we do:**
 - Crystal League, Hellgates, Corrupted Dungeons, Roads of Avalon, open-world PvP, Caerleon faction warfare
 - Route running and a real crafting economy, trade is treated as seriously as combat
-- No ZvZ, no blob fights. Small, skilled, and guerrilla-style is the whole identity
+- Small-scale PvP, guerrilla-style, that's the whole identity
+- A pirate-flavored crew that treats trade and combat as the same hustle, not two separate guilds glued together
 
 **What we're looking for:**
 - 250k fame minimum (general, PvP, and faction all use the same bar)
 - Active roughly 5 PM-6 AM Central, that's our locked prime time
-- Willing to actually fight. Trial members can start in blue/yellow zones to learn, but PvP fame is a required stepping stone, not optional
-- Self-sufficient. We're not a bank, learn the game and earn your own silver
+- Willing to actually fight. Trial members can start in blue/yellow zones to learn, but the goal is working your way up toward black zone content
+- Self-sufficient, and we're willing to help you get there. Learn the game, earn your own silver, and we'll help you grow it
 
-**20-30 active members, not 300+.** Real profit-sharing, real structure, and room to actually grow through the ranks instead of getting lost in a mega-guild.
+Real profit-sharing, real structure, and room to actually grow through the ranks.
 
 Drop a message in [invite link] or post in #join-the-company if you're already here.

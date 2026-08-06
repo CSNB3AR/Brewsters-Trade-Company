@@ -98,6 +98,6 @@ The rank ladder above doubles as the member role list: **Recruit, Associate, Ope
 
 ### Application Process
 
-1. Full application: current fame with proof (screenshot/killboard), content focus preference (route running, crafting, or PvP), available play window. Main accounts only, alts aren't accepted as members right now, and no double guild membership, applicants need to have actually left any other guild first.
+1. Full application: current fame with proof (screenshot/killboard), content focus preference (route running, crafting, or PvP), available play window. Main accounts only, alts aren't accepted as members right now, and no double guild membership, applicants need to have actually left any other guild first. The application also requires proof of account (average Item Power and fame screenshots, or a killboard link) and disclosure of any alt characters (name, current guild if any, approximate fame/IP).
 2. Brief chat with the leader or an officer to confirm fit, without revealing Route Running mechanics.
 3. Trial period at Recruit rank, then promoted to Associate. From there, picking a department and proving activity moves someone up to Operative.
