@@ -11,7 +11,7 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 | `guild/structure.md` | Officer roles, rank ladder, fame requirement, and the recruitment process. |
 | `guild/conduct-and-gear.md` | Gear provision policy, mount rental terms, and respect/conduct rules. |
 | `discord/server-layout.md` | Full Discord channel and voice layout, with public vs. members-only visibility noted. |
-| `discord/dispatch-board-rules.md` | Combined dispatch/economy rules: Route Running splits and tags, Workshop split and order template, Guild Auction House and Auction Night, anti-flip rule. |
+| `discord/dispatch-board-rules.md` | Combined dispatch/economy rules: Route Running splits and tags, Workshop split and order template, Guild Auction House and Auction Night, anti-flip rule, Guild Rental Farm program. |
 | `discord/welcome-rules.md` | Server conduct rules for `#welcome-and-charter`. |
 | `discord/membership-rules.md` | Membership expectations: self-sufficiency, activity/absence policy, guild tax, gear reimbursement, guild-funded eligibility. |
 | `discord/guard-rules.md` | PvP guidelines, Crystal League roster access, faction warfare, and the weekly PvP schedule. |

@@ -22,3 +22,11 @@ Based in Caerleon on purpose. If that means nothing to you yet, that's fine, we'
 Real profit-sharing, real structure, and room to actually grow through the ranks.
 
 Drop a message in [invite link] or post in #join-the-company if you're already here.
+
+---
+
+## In-Game Chat Ad (Short Form)
+
+For posting directly in-game (world or city chat), not Discord. Keep it short, casual, and clearly not automated, this shouldn't read like a bot or trigger spam flags.
+
+> Brewster's Trade Company is recruiting. Looking for a way to grow your silver and build up your own economy while you learn the game? We're a guild that focuses on trade and PvP both, not just about competing, but about actually helping you build something here. Send me a PM if you want to hear more.

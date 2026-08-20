@@ -111,3 +111,25 @@ REASON (loot drop, contribution, etc.):
 Submit this in advance of Auction Night so officers can queue it.
 
 **Anti-Flip Rule:** items bought through the guild auction can't be resold for personal profit on the open market. Enforcement is two-strike: warning first, market ban second.
+
+## Guild Rental Farm
+
+Free, guild-exclusive program to help members build up their own economy. 10 farm plots total, available across guild-owned land.
+
+**How it works:**
+- Any member can rent up to 3 plots at a time.
+- Rental term is 2 weeks. To keep a plot past that, submit a new application before the term ends.
+- If someone's on the waiting list when your term ends, the plot goes to them, current holders don't get automatic priority over people waiting.
+- Free to rent, no silver cost to hold a plot.
+
+**Production split:** 80% of everything a plot produces goes to the member renting it, 20% goes back to the guild.
+
+Example: a plot yields 200 carrots. 160 (80%) go to the renter, 40 (20%) go to the guild.
+
+**Application Template** (submit every 2 weeks to retain a plot):
+```
+CHARACTER NAME:
+PLOT/ISLAND REQUESTED:
+CROP:
+CURRENT PLOTS HELD (0-3):
+```
