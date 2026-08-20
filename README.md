@@ -24,6 +24,7 @@ Planning and operations hub for Brewster's Trade Company, a small-scale PvP and 
 | `pvp/recruiting-criteria.md` | Crystal League roles needed and how to evaluate recruits. |
 | `content/content-plan.md` | YouTube/content plan and Creators Program eligibility path. |
 | `reference/game-notes.md` | Dated mechanics corrections and game health notes, background context only. |
+| `personal/notes.md` | Private, real-life notes, not guild business, not Discord-facing. |
 
 ## Open Items
 
